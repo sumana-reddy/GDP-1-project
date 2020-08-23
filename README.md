@@ -1,7 +1,7 @@
 # GDP-1-project
 
 ## Team members
-1. Sumana Reddy Reddybathula
+1. Sumana Reddy bathula
 2. Pooja Gundu
 3. Rajashekar Gande
 4. Rohith Reddy Avisakula
