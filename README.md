@@ -7,7 +7,7 @@
 4. Rohith Reddy Avisakula
 5. Vikas Baswapuram
 6. Sumanth Reddy Naidu
-<<<<<<< HEAD
+
 
 ## Mentor
 - Dr. Denise Case
