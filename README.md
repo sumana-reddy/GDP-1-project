@@ -11,14 +11,22 @@
 
 ## Mentor
 - Dr. Denise Case
-- Northwest Missouri State University
+- Assistant Professor,Northwest Missouri State University
 - 44-691 Graduate Directed Project 
 - Fall 2020
 
-## Client
+## Project Client
 
 - Dr. Charles Hoot
-- Northwest Missouri State University
+- Assistant Professor,School of Computer Science and Information Systems
+
+## Project Client Description: 
+Client Designation:
+Dr.Charles Hoot is an assistant professor in the school of Computer Science and Information Systems, Northwest Missouri State University.
+Client Qualification:
+- Dr. Charles Hoot holds a Ph.D. in Computer Science from University of Illinois Champaign/Urbana.
+- M.A. Astrophysics; Princeton University
+- B.A. Physics; University of California San Diego
 
 ## RFP
 
