@@ -63,16 +63,9 @@
 - Dr.Charles Hoot is an assistant professor in the school of Computer Science and Information Systems, Northwest Missouri State University.
 
 
-## Repository Topics
-
-- Git
-- Markdown
-
 ## Rapid MVP Team Links
 
 - Jira : [jira Link](https://appdevelpoment.atlassian.net/secure/RapidBoard.jspa?projectKey=MAN&rapidView=1)
-- two
-- three
-- four
+
 
 
