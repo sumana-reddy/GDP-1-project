@@ -62,7 +62,6 @@
 5. Vikas Baswapuram
 6. Sumanth Reddy Naidu
 
-
 ## Mentor
 - Dr. Denise Case
 - Assistant Professor,Northwest Missouri State University
