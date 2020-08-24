@@ -2,7 +2,6 @@
 
 ## Team members
 
-
 <table class="tg">
 <thead>
   <tr>
