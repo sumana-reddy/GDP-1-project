@@ -15,10 +15,6 @@
 - 44-691 Graduate Directed Project 
 - Fall 2020
 
-## Project Client
-
-- Dr. Charles Hoot
-- Assistant Professor,School of Computer Science and Information Systems
 
 
 ## Rapid MVP Team Links
