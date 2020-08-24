@@ -39,7 +39,7 @@
 
 ## Rapid MVP Team Links
 
-- one
+- Jira : [jira Link](https://appdevelpoment.atlassian.net/secure/RapidBoard.jspa?projectKey=MAN&rapidView=1)
 - two
 - three
 - four
