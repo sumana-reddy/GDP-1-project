@@ -20,28 +20,10 @@
 - Dr. Charles Hoot
 - Assistant Professor,School of Computer Science and Information Systems
 
-## Project Client Description: 
-- Client Designation:
-- Dr.Charles Hoot is an assistant professor in the school of Computer Science and Information Systems, Northwest Missouri State University.
-- Client Qualification:
-- Dr. Charles Hoot holds a Ph.D. in Computer Science from University of Illinois Champaign/Urbana.
-- M.A. Astrophysics; Princeton University
-- B.A. Physics; University of California San Diego
-
-## RFP
-
-- [Request for Proposal](https://github.com/denisecase/rfp-hunt/blob/master/rfp-hunt.md)
-
-## Repository Topics
-
-- Git
-- Markdown
 
 ## Rapid MVP Team Links
 
 - Jira : [jira Link](https://appdevelpoment.atlassian.net/secure/RapidBoard.jspa?projectKey=MAN&rapidView=1)
-- two
-- three
-- four
+
 
 
