@@ -25,7 +25,6 @@
 - Dr.Charles Hoot is an assistant professor in the school of Computer Science and Information Systems, Northwest Missouri State University.
 
 
-
 ## Repository Topics
 
 - Git
