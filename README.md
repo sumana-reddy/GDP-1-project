@@ -55,7 +55,6 @@
 5. Vikas Baswapuram
 6. Sumanth Reddy Naidu
 
-
 ## Mentor
 - Dr. Denise Case
 - Assistant Professor,Northwest Missouri State University
@@ -71,9 +70,6 @@
 - Client Designation:
 - Dr.Charles Hoot is an assistant professor in the school of Computer Science and Information Systems, Northwest Missouri State University.
 
-## RFP
-
-- [Request for Proposal](https://github.com/denisecase/rfp-hunt/blob/master/rfp-hunt.md)
 
 ## Repository Topics
 
