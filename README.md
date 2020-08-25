@@ -73,6 +73,13 @@ This is a mobile gaming application which enables the players(users of this game
 - This game helps the players in physical activity as the players have to walk around to find the locations.
 - This also helps the players to build the healthy competition thereby bringing the people together.
 
+## Technology Stack:
+- THis is going to be a Progressive Web Application.
+- HTML.
+- CSS/Bootstrap.
+- JavaScript.
+
+
 ## Rapid MVP Team Links
 
 - Jira : [jira Link](https://appdevelpoment.atlassian.net/jira/software/projects/G1/boards/3)
