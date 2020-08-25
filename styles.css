@@ -7,11 +7,13 @@ h1{
 body
 {
     width : 100%;
-    height: auto;
-  background-position: center;
+    height: 100%;
+    margin : 0;
+  background-position: relative;
   background-size: 300px 100px;
   background-size: cover;
-  background-image: url(https://image.shutterstock.com/image-vector/vector-cartoon-background-game-quest-260nw-1272539170.jpg);
+  background-repeat: no-repeat;
+  background-image: url(https://previews.123rf.com/images/nearbirds/nearbirds1503/nearbirds150300010/37244275-horizontal-banner-icon-to-the-computer-game-treasure-hunt.jpg);
 }
 
 form,div{
@@ -23,7 +25,7 @@ p{
     font-size : 40px;
     text-align: center;
     font-size: larger;
-    color: white;
+    color : white;
 }
  #button{
      padding: 2px;
@@ -41,7 +43,7 @@ p{
    padding: 12px;
    border-radius: 20xp;
    box-sizing: border-box;
-   color: white;
+   color: aqua;
       flex-basis: 100%;
  }
  .container img{
