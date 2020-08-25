@@ -31,7 +31,7 @@ This is a mobile gaming application which enables the players(users of this game
   </tr>
   <tr>
     <td class="tg-0lax">Sumanth Reddy Naidu</td>
-    <td class="tg-0lax">Front end Developer</td>
+    <td class="tg-0lax">Back end Developer</td>
     <td class="tg-0lax">s538395@nwmissouri.edu</td>
   </tr>
   <tr>
