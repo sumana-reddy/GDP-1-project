@@ -65,6 +65,13 @@ This is a mobile gaming application which enables the players(users of this game
 - Client Designation:
 - Dr.Charles Hoot is an assistant professor in the school of Computer Science and Information Systems, Northwest Missouri State University.
 
+## Risks and Challenges:
+- The app is based on the locations and to find the location accurately GPS is to be used which could a challenging and tricky task.
+- This game is based on finding the locations which are outdoor and given the present scenario social distancing must be followed to play this game.
+
+## Advantages:
+- This game helps the players in physical activity as the players have to walk around to find the locations.
+- This also helps the players to build the healthy competition thereby bringing the people together.
 
 ## Rapid MVP Team Links
 
