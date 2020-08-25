@@ -67,6 +67,7 @@
 
 - Jira : [jira Link](https://appdevelpoment.atlassian.net/jira/software/projects/G1/boards/3)
 - proposed screens : [homepage] (pic.png)
+<img src="C:\Users\s538295\Pictures\Screenshots\pic.png">
 
 
 
