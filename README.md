@@ -90,6 +90,4 @@ This is a mobile gaming application which enables the players(users of this game
 - [Youtube](https://www.youtube.com/watch?v=DO9ZRo2jU3w)
 - [Markdown Syntax](https://www.markdownguide.org/cheat-sheet/)
 - [RFP](https://clearbridgemobile.com/how-to-write-an-amazing-mobile-app-rfp/)
-
-
-
+- [background image citation ](https://www.google.com/search?q=inscloudgate+treasure+hunt+gaming+images&sa=X&bih=625&biw=1366&rlz=1C1GCEA_enUS884US884&hl=en&sxsrf=ALeKk01VRv8Ps8WNO0-2J60wBGGeuTw3Fw:1598322490287&tbm=isch&source=iu&ictx=1&fir=nGfT7CfU8QGYXM%252CNGZ24GfieSFdRM%252C_&vet=1&usg=AI4_-kSl6tGSxyxuAwNX12-b7fKrNORK9w&ved=2ahUKEwjqlpSip7XrAhUMSK0KHZh_CjcQ9QEwAHoECAoQBQ#imgrc=nGfT7CfU8QGYXM )
