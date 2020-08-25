@@ -86,6 +86,9 @@ This is a mobile gaming application which enables the players(users of this game
 - proposed screens : <img src = "Images\proposed_Sceenshot.jpeg">
 - jira screenshot : <img src ="Images\Jira_Screenshot.jpeg">
 
+## Original RFP:
+[RFP](https://github.com/denisecase/rfp-hunt/blob/master/rfp-hunt.md)
+
 ## References:
 - [Youtube](https://www.youtube.com/watch?v=DO9ZRo2jU3w)
 - [Markdown Syntax](https://www.markdownguide.org/cheat-sheet/)
