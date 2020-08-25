@@ -65,7 +65,7 @@
 
 ## Rapid MVP Team Links
 
-- Jira : [jira Link](https://appdevelpoment.atlassian.net/secure/RapidBoard.jspa?projectKey=MAN&rapidView=1)
+- Jira : [jira Link](https://appdevelpoment.atlassian.net/jira/software/projects/G1/boards/3)
 
 
 
