@@ -84,7 +84,12 @@ This is a mobile gaming application which enables the players(users of this game
 
 - Jira : [jira Link](https://appdevelpoment.atlassian.net/jira/software/projects/G1/boards/3)
 - proposed screens : ![homepage](Images/proposed_Screenshot.jpeg)
-- jira screenshot : ![jira](jira_Screenshot.jpeg)
+- jira screenshot : ![jira](Images/jira_Screenshot.jpeg)
+
+## References:
+- [Youtube](https://www.youtube.com/watch?v=DO9ZRo2jU3w)
+- [Markdown Syntax](https://www.markdownguide.org/cheat-sheet/)
+- [RFP](https://clearbridgemobile.com/how-to-write-an-amazing-mobile-app-rfp/)
 
 
 
