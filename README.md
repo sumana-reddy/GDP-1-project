@@ -83,8 +83,8 @@ This is a mobile gaming application which enables the players(users of this game
 ## Rapid MVP Team Links
 
 - Jira : [jira Link](https://appdevelpoment.atlassian.net/jira/software/projects/G1/boards/3)
-- proposed screens : [homepage](proposed_Screenshot.jpeg)
-- jira screenshot : [jira](https://appdevelpoment.atlassian.net/jira/software/projects/G1/boards/3)
+- proposed screens : ![homepage](proposed_Screenshot.jpeg)
+- jira screenshot : ![jira](jira_Screenshot.jpeg)
 
 
 
