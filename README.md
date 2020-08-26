@@ -91,7 +91,7 @@ This is a mobile gaming application which enables the players(users of this game
 ## Rapid MVP Team Links
 
 - Jira : [jira Link](https://nwmissouri.instructure.com/files?preview=4010330)
-- proposed screens : <img src = "">
+- proposed screens : <img src = "proposed\Leaderboard.jpeg">
 - jira screenshot : <img src ="Images\Jira_Screenshot.jpeg">
 
 ## Original RFP:
