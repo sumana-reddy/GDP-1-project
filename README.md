@@ -98,6 +98,26 @@ This is a mobile gaming application which enables the players(users of this game
 ## Schedule Management
 <img src="Images\xcel.jpeg">
 
+## Cost Estimate
+
+|    Work   Breakdown Structure Categories    | Total Team Cost | No. of Hours   per week | Total cost per   week | Total cost for   three sprints |   |
+|:-------------------------------------------:|-----------------|-------------------------|-----------------------|--------------------------------|---|
+| Initiating                                  | $350            | 9                       | $3,150                | 18,900                         |   |
+| Planning                                    | $350            | 12                      | $4,200                | $25,200                        |   |
+| Designing                                   | $350            | 11                      | $3,850                | $23,100                        |   |
+|     UI Design                               | 0               | 4                       | 0                     | 0                              |   |
+|     Synthesis of Design                     | 0               | 4                       | 0                     | 0                              |   |
+|     Implementation Iteration                | 0               | 3                       | 0                     | 0                              |   |
+|     Early release and contract finalization | 0               | 3                       | 0                     | 0                              |   |
+| Implementation                              | $350            | 12                      | $4,200                | $25,200                        |   |
+|     Application Development                 | 0               | 6                       | 0                     | 0                              |   |
+|     PWA Implementation                      | 0               | 3                       | 0                     | 0                              |   |
+|     Android/IOS implementation              | 0               | 3                       | 0                     | 0                              |   |
+| Monitoring and   controlling                | $350            | 11                      | $3,850                | $23,100                        |   |
+| Closing                                     | $350            | 10                      | $3,500                | $21,000                        |   |
+| Total                                       |                 |                         |                       | $136,500                       |   |
+|                                             |                 |                         |                       |                                |   |
+
 ## Risks and Challenges:
 - The app is based on the locations and to find the location accurately GPS is to be used which could a challenging and tricky task.
 - This game is based on finding the locations which are outdoor and given the present scenario social distancing must be followed to play this game.
