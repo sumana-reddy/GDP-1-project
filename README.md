@@ -69,6 +69,28 @@ This is a mobile gaming application which enables the players(users of this game
 - Client Designation:
 - Dr.Charles Hoot is an assistant professor in the school of Computer Science and Information Systems, Northwest Missouri State University.
 
+## ER Diagram
+<img src="Final ERD.jpeg">
+
+## User Entity
+- Any person with a valid email and wishes to register for the game is defined as user.
+
+## Player Entity
+- A Player is a user who is already registered.
+- Nick name is also inluded.
+
+## Team Entity
+- A team is defined by the group of players and one of the palyer acts as the captain/teamleader.
+
+## Quest Entity
+- The quest is decided by the hunt master and is limited by time constraint.
+
+## Location Entity
+- This entity is comprised of location coordinates and is given by the huntmaster for the players to locate.
+
+## Competition Entity
+- This is conducted by the huntmaster and the team with maximum points wins the competition.
+
 ## Schedule Management
 <img src="Images\xcel.jpeg">
 
