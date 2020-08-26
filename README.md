@@ -82,6 +82,11 @@ This is a mobile gaming application which enables the players(users of this game
 - CSS/Bootstrap.
 - JavaScript.
 
+## Acceptance Criteria:
+
+- Each player must have a smart phone
+- Should be able to plan the route using location
+- One must have some knowledge to accumulate the clues and reach the treaseure
 
 ## Rapid MVP Team Links
 
