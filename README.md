@@ -91,6 +91,10 @@ This is a mobile gaming application which enables the players(users of this game
 ## Competition Entity
 - This is conducted by the huntmaster and the team with maximum points wins the competition.
 
+## Sample Data/Demo chart of Application
+
+<img src="sample data.PNG">
+
 ## Schedule Management
 <img src="Images\xcel.jpeg">
 
