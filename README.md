@@ -66,7 +66,7 @@ This is a mobile gaming application which enables the players(users of this game
 - Dr.Charles Hoot is an assistant professor in the school of Computer Science and Information Systems, Northwest Missouri State University.
 
 ## Schedule Management
-<img src="\Images\WhatsApp Image 2020-08-25 at 9.24.54 PM.jpeg">
+<img src="Images\xcel.jpeg">
 
 ## Risks and Challenges:
 - The app is based on the locations and to find the location accurately GPS is to be used which could a challenging and tricky task.
@@ -86,7 +86,7 @@ This is a mobile gaming application which enables the players(users of this game
 ## Rapid MVP Team Links
 
 - Jira : [jira Link](https://nwmissouri.instructure.com/files?preview=4010330)
-- proposed screens : <img src = "Images\proposed_Sceenshot.jpeg">
+- proposed screens : <img src = "">
 - jira screenshot : <img src ="Images\Jira_Screenshot.jpeg">
 
 ## Original RFP:
