@@ -1,6 +1,6 @@
-# GDP-1-project
+# Northwest Gaming Appplication
 
-## About App:
+## Overview:
 This is a mobile gaming application which enables the players(users of this game) to complete a quest which is finding out specific set of location based on the clues provided. This is a fun game aimed at involving the students at northwest missouri state unniversity to make their respective teams and participate in the competition to score maximum points based on the level of the difficulty. The team with maximum points wins the competition.
 
 ## Team members
