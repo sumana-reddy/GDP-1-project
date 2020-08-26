@@ -146,7 +146,7 @@ This is a mobile gaming application which enables the players(users of this game
 <img src = "proposed\quest.jpeg">
 <img src = "proposed\challenge.jpeg">
 <img src = "proposed\setting.jpeg">
-- jira screenshot : <img src ="Images\Jira_Screenshot.jpeg">
+- jira screenshot : <img src ="updated_jira.PNG">
 
 ## Original RFP:
 [RFP](https://github.com/denisecase/rfp-hunt/blob/master/rfp-hunt.md)
