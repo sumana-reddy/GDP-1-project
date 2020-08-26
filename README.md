@@ -66,7 +66,7 @@ This is a mobile gaming application which enables the players(users of this game
 - Dr.Charles Hoot is an assistant professor in the school of Computer Science and Information Systems, Northwest Missouri State University.
 
 ## Schedule Management
-<img src="Images\xcel.jpeg">
+<img src="\Images\xcel.jpeg">
 
 ## Risks and Challenges:
 - The app is based on the locations and to find the location accurately GPS is to be used which could a challenging and tricky task.
@@ -82,6 +82,11 @@ This is a mobile gaming application which enables the players(users of this game
 - CSS/Bootstrap.
 - JavaScript.
 
+## Acceptance Criteria:
+
+- Each player must have a smart phone
+- Should be able to plan the route using location
+- One must have some knowledge to accumulate the clues and reach the treaseure
 
 ## Rapid MVP Team Links
 
