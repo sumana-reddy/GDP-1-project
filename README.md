@@ -118,6 +118,9 @@ This is a mobile gaming application which enables the players(users of this game
 | Total                                       |                 |                         |                       | $136,500                       |   |
 |                                             |                 |                         |                       |                                |   |
 
+- The developers required for this application is 6.
+- The estimated total cost for this application is $136500.
+
 ## Risks and Challenges:
 - The app is based on the locations and to find the location accurately GPS is to be used which could a challenging and tricky task.
 - This game is based on finding the locations which are outdoor and given the present scenario social distancing must be followed to play this game.
