@@ -70,7 +70,7 @@ This is a mobile gaming application which enables the players(users of this game
 - Dr.Charles Hoot is an assistant professor in the school of Computer Science and Information Systems, Northwest Missouri State University.
 
 ## ER Diagram
-<img src="Final ERD.jpeg">
+<img src="proposed\Final ERD.jpeg">
 
 ## User Entity
 - Any person with a valid email and wishes to register for the game is defined as user.
