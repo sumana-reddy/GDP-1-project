@@ -53,7 +53,6 @@ This is a mobile gaming application which enables the players(users of this game
 
 
 
-
 ## Mentor
 - Dr. Denise Case
 - Assistant Professor,Northwest Missouri State University
@@ -74,6 +73,7 @@ This is a mobile gaming application which enables the players(users of this game
 
 ## User Entity
 - Any person with a valid email and wishes to register for the game is defined as user.
+- An entity is a general type for objects relevant to our game. Entities can represent objects that are crucial to gameplay, such as player and enemy characters, or objects that merely exist in the game world without interacting with the player, such as animated decorations in a level.
 
 ## Player Entity
 - A Player is a user who is already registered.
