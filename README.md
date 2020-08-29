@@ -93,7 +93,7 @@ This is a mobile gaming application which enables the players(users of this game
 
 ## Sample Data/Demo chart of Application
 
-<img src="sample data.PNG">
+<img src="Images\sample data.PNG">
 
 ## Schedule Management
 <img src="Images\xcel.jpeg">
