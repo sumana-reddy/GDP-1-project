@@ -233,7 +233,7 @@ This is th epage where user's profile can be edited, about, help and logout opti
 <img src = "proposed\setting.jpeg">
 
 ## Jira screenshot : 
-<img src ="updated_jira.PNG">
+<img src ="Images\updated_jira.PNG">
 
 ## Original RFP:
 [RFP](https://github.com/denisecase/rfp-hunt/blob/master/rfp-hunt.md)
