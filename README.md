@@ -200,21 +200,40 @@ A roject flyer is prepared and passe on to kick start the project.
 # Accepatnce Criteria:
 The shedule is decided and developers start working based on the requirements.
 
-## Sprint - 3( Scheduled  for the later part of the semester)
-UI development finalisation
-BackEnd development
-Testing the application
-Deployment of the application
+## Sprint - 3( Scheduled  for the GDP-2)
+# UI development finalisation
+# BackEnd development
+# Testing the application
+# Deployment of the application
 
 ## Rapid MVP Team Links
 
 - Jira : [jira Link](https://vikasbaswapuram.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=NGA&selectedIssue=NGA-1)
-- proposed screens : <img src = "proposed\homepage.jpeg">
+
+
+## proposed screens : 
+# Home page: 
+This emphasises the color of our college.
+<img src = "proposed\homepage.jpeg">
+
+# Leaderboard Page:
+This the page where the points earned by different teams are displayed(Highest points to lowest points)
 <img src = "proposed\Leaderboard.jpeg">
+
+# Quest Creation Page:
+This is the page where the Hunt master creates a new quest. 
 <img src = "proposed\quest.jpeg">
+
+# Challenges Page:
+This is the page where all the challenges are displayed for the teams to participate.
 <img src = "proposed\challenge.jpeg">
+
+# Settings Page:
+This is th epage where user's profile can be edited, about, help and logout options are provided.
 <img src = "proposed\setting.jpeg">
-- jira screenshot : <img src ="updated_jira.PNG">
+
+## Jira screenshot : 
+<img src ="updated_jira.PNG">
 
 ## Original RFP:
 [RFP](https://github.com/denisecase/rfp-hunt/blob/master/rfp-hunt.md)
