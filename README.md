@@ -119,7 +119,7 @@ This is a mobile gaming application which enables the players(users of this game
 |                                             |                 |                         |                       |                                |   |
 
 - The developers required for this application is 6.
-- The estimated total cost for this application is $136500.
+- The estimated total cost for this application is $136500 as mentioned in the cost estimation table.
 
 ## Risks and Challenges:
 - The app is based on the locations and to find the location accurately GPS is to be used which could a challenging and tricky task.
@@ -137,9 +137,9 @@ This is a mobile gaming application which enables the players(users of this game
 
 ## Acceptance Criteria:
 
-- Each player must have a smart phone
-- Should be able to plan the route using location
-- One must have some knowledge to accumulate the clues and reach the treaseure
+- Each player must have a smart phone or a PC.
+- Should be able to plan the route using location.
+- One must have some knowledge to accumulate the clues and reach the treasure.
 
 ## User Stories:
 
