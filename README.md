@@ -220,8 +220,8 @@ This emphasises the color of our college.
 This the page where the points earned by different teams are displayed(Highest points to lowest points)
 <img src = "proposed\Leaderboard.jpeg">
 
-# Quest Creation Page:
-This is the page where the Hunt master creates a new quest. 
+# Quest Creation Page: This is the page where the Hunt master creates a new quest. 
+
 <img src = "proposed\quest.jpeg">
 
 # Challenges Page:
