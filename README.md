@@ -141,6 +141,71 @@ This is a mobile gaming application which enables the players(users of this game
 - Should be able to plan the route using location
 - One must have some knowledge to accumulate the clues and reach the treaseure
 
+## User Stories:
+
+## Sprint - 1
+# User Story - 1
+As a User any student with a valid email can sigup and play the game.
+# Acceptance criteria:
+Being a UI developer for this application I take up this task and make sure it works out for every valid email.
+
+# User Story - 2
+As a Team a proposal document is to be created for this Northwest Gaming Application
+# Accepatnce Criteria:
+All the team members are discussing the essential requirements and have come up with the requirements with is yet to be presented.
+
+# User Story - 3
+As a Team Schedule for this application is to be charted down.
+# Accepatnce Criteria:
+All the team members have met in a place and an estimate is recorded taking all the things into consideration and this is aldo due for the presentation.
+
+# User Story - 4
+As a Team Budget/Cost estimation for this application to develop is to be decided.
+# Accepatnce Criteria:
+This is a tricky task but yet an estimate is generated which might be subject to change based on the feedback/review of the client.
+
+# User Story - 5
+As a Data developer ERD is to be developed based on the entities mentioned in the RFP
+# Accepatnce Criteria:
+The given Task for the development of the ERD has been finished and yet to be reviewed. The developed ERD has been updated in the Team repository.
+
+# User story - 6
+As a developer a set of sample data is to be assumed and check for the desired possible outcome.
+# Accepatnce Criteria:
+A set of sample data was taken and were roughly tested to look for the possible outcome and it worked and for which a flow chart is developed and mentioned above.
+
+# User Story - 7
+As a UI/FrontEnd developer proposed screens for the application are to be craeted and displayed.
+# Accepatnce Criteria:
+A set of proposed screens were designed using online design tool(Figmaa) and are yet to be reviwed by the client. These are also subject to change after the feedback/review from the client presentation.
+
+# User Story - 8
+As a developer the requirements are to be determined for the application to be developed.
+# Accepatnce Criteria:
+The initial requirements are identified and were mentioned in the read me file and these are subject to change based on the requirements provided by the client if any.
+
+## Sprint - 2
+# User Story - 9
+As a team Project Signoff is be made with outmost care with clear details about everything
+# Accepatnce Criteria:
+The project manager will take care of this signoff after regular meetings with the client.
+
+# User Story - 10
+Project Flyer
+# Accepatnce Criteria:
+A roject flyer is prepared and passe on to kick start the project.
+
+# User Story - 11
+ As a Team the schedule for the MVP releases are set.
+# Accepatnce Criteria:
+The shedule is decided and developers start working based on the requirements.
+
+## Sprint - 3( Scheduled  for the later part of the semester)
+UI development finalisation
+BackEnd development
+Testing the application
+Deployment of the application
+
 ## Rapid MVP Team Links
 
 - Jira : [jira Link](https://vikasbaswapuram.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=NGA&selectedIssue=NGA-1)
