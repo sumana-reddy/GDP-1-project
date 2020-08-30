@@ -15,7 +15,7 @@
 
 ## 2. Half day 1 (August 23 2020)
 
-2.1 After creating the repo I checked the content in Readme.md and rectified small spelling mistakes.<br>
+2.1 After creating the repo I checked the content in Readme.md and did some corrections to it<br>
 
 Here is the link to the commit <br>
 • https://github.com/sumana-reddy/GDP-1-project/commit/3a2a1366c6cfa037b2f1362de67cb4868d022a10
