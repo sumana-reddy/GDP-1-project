@@ -1,13 +1,11 @@
-Team Progress Report - Individual
+## Team Progress Report - Individual
 
-Project Name: Northwest Quest Hunt Game
-Name: Pooja Gundu
-919: 919587319
-SID: s538195
+# Project Name: Northwest Quest Hunt Game
+# Name: Pooja Gundu
+# 919: 919587319
+# SID: s538195
 
-Report
-
-1. Attendance ( class periods I attended ) 
+## 1. Attendance (class periods I attended ) 
 • 08-19-2020 – In person class
 • 08-21-2020 – zoom session
 • 08-24-2020 – In person class
@@ -15,7 +13,7 @@ Report
 • 08-28-2020 – zoom doubts clarifying session 
 • For attendance I think I earned 280 points (total 4 classes with 50 minutes each is approximately 4 hours)
 
-2. Half day 1 (August 23 2020)
+## 2. Half day 1 (August 23 2020)
 
 2.1 After creating the repo I checked the content in Readme.md and rectified small spelling mistakes.
 Here is the link to the commit -
@@ -36,7 +34,7 @@ This is the first time am working and learning app development,
 as I am learning new things I am ready to work hard and do the best for the project.
 -> I think I earned 280 points in this section.
 
-3. Half day 2 (August 24 2020)
+## 3. Half day 2 (August 24 2020)
 
 3.1 Created index.html file and added code to this file for homepage and some code in styles.css file also and pushed 2 files to the Github.
 -> Here is the link to that commit 
@@ -61,7 +59,7 @@ by Uploading the image to canvas site files.
 -> Answer
 -> I think I earned 280 points in this section.
 
-4. Half day 3 (August 25 2020)
+## 4. Half day 3 (August 25 2020)
 
 4.1 Created project proposal document and added things like table for team members,and some description about these things-
 statement of purpose, overview, Functional requirements of admin etc.
