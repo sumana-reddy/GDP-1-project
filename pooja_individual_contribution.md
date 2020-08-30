@@ -35,7 +35,7 @@ Here is the link to that commit  <br>
 -> We are giving our hundred percent on our project.Am working on the website part of the project.<br>
 This is the first time am working and learning app development,<br> 
 as I am learning new things I am ready to work hard and do the best for the project.<br>
--> I think I earned __280 points__ in this section.<br>
+-> I think I earned __300 points__ in this section.<br>
 
 ## 3. Half day 2 (August 24 2020)
 
@@ -63,7 +63,7 @@ Here is the link to that commit <br>
 • https://github.com/sumana-reddy/GDP-1-project/commit/c4603b1f8bc00a1b1e53e39257e3a858fa8d78b3
  
 3.5 How many points you earned in each section?<br>
--> I think I earned __280 points__ in this section.
+-> I think I earned __300 points__ in this section.
 
 ## 4. Half day 3 (August 25 2020)
 
@@ -88,5 +88,5 @@ Here is the link to that commit<br>
 • https://vikasbaswapuram.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=NGA&selectedIssue=NGA-2
 
 4.5 How many points you earned in each section? <br>
--> I think I earned __280 points__ in this section.
+-> I think I earned __300 points__ in this section.
 
