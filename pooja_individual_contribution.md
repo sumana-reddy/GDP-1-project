@@ -1,4 +1,4 @@
-                                                         ## Team Progress Report - Individual
+                                                          Team Progress Report - Individual
 
 ## Project Name: Northwest Quest Hunt Game
 - Name: Pooja Gundu
@@ -11,7 +11,7 @@
 • 08-24-2020 – In person class<br>
 • 08-26-2020 – zoom session <br>
 • 08-28-2020 – zoom doubts clarifying session <br>
-• For attendance I think I earned __280 points__(total 4 classes with 50 minutes each is approximately 4 hours)<br>
+• For attendance I think I earned __280 points__(total 4 classes with 50 minutes each is approximately 3 hours)<br>
 
 ## 2. Half day 1 (August 23 2020)
 
