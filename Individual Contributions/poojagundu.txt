@@ -15,7 +15,7 @@ Report
 • 08-28-2020 – zoom doubts clarifying session 
 • For attendance I think I earned 280 points (total 4 classes with 50 minutes each is approximately 4 hours)so,if the pay is 70$/ hour for 4 hours it is 280.
 
-2. Half day 1 
+2. Half day 1 (August 23 2020)
 
 2.1 After creating the repo I started checking the content in Readme.md and rectified some small spelling mistakes.
 Here is the link to the commit -
@@ -36,7 +36,7 @@ This is the first time am working and learning app development,
 as I am learning new things I am ready to work hard and do the best for the project.
 -> I think I earned 280 points in this section.
 
-3. Half day 2 
+3. Half day 2 (August 24 2020)
 
 3.1 Created index.html file and added code to this file for homepage and some code in styles.css file also and pushed 2 files to the Github.
 -> Here is the link to that commit 
@@ -61,7 +61,7 @@ by Uploading the image to canvas site files.
 -> Answer
 -> I think I earned 280 points in this section.
 
-4. Half day 3 
+4. Half day 3 (August 25 2020)
 
 4.1 Created project proposal document and added things like table for team members,and some description about these things-
 statement of purpose, overview, Functional requirements of admin etc.
