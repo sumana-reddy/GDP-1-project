@@ -1,4 +1,4 @@
-                                                         ## Team Progress Report - Individual
+                                                          Team Progress Report - Individual
 
 ## Project Name: Northwest Quest Hunt Game
 - Name: Pooja Gundu
