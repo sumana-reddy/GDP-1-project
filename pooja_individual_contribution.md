@@ -1,26 +1,27 @@
 ## Team Progress Report - Individual
 
-# Project Name: Northwest Quest Hunt Game
-# Name: Pooja Gundu
-# 919: 919587319
-# SID: s538195
+## Project Name: Northwest Quest Hunt Game
+## Name: Pooja Gundu
+## 919: 919587319
+## SID: s538195
 
-## 1. Attendance (class periods I attended ) 
-• 08-19-2020 – In person class
-• 08-21-2020 – zoom session
-• 08-24-2020 – In person class
-• 08-26-2020 – zoom session
-• 08-28-2020 – zoom doubts clarifying session 
-• For attendance I think I earned 280 points (total 4 classes with 50 minutes each is approximately 4 hours)
+## 1. Attendance (class periods I attended )<br>
+• 08-19-2020 – In person class<br>
+• 08-21-2020 – zoom session<br>
+• 08-24-2020 – In person class<br>
+• 08-26-2020 – zoom session <br>
+• 08-28-2020 – zoom doubts clarifying session <br>
+• For attendance I think I earned 280 points (total 4 classes with 50 minutes each is approximately 4 hours)<br>
 
 ## 2. Half day 1 (August 23 2020)
 
 2.1 After creating the repo I checked the content in Readme.md and rectified small spelling mistakes.
-Here is the link to the commit -
+
+Here is the link to the commit <br>
 • https://github.com/sumana-reddy/GDP-1-project/commit/3a2a1366c6cfa037b2f1362de67cb4868d022a10
 
 2.2 Added some description in Readme.md file like project client description, mentor details, client details. 
--> Here is the link to that commit 
+-> Here is the link to that commit  <br>
 • https://github.com/sumana-reddy/GDP-1-project/commit/5e5684339fb32265b57b20d8c62fceaafb4680c1
 
 2.3 created the table which includes team members name, Student ID, the project roles,
