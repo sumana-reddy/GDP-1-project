@@ -52,6 +52,7 @@ Here is the link to that commit <br>
 3.3 Added some java script code in index.html like for example in this repo, <br>
 included script for onclick() function to display a message when user clicks the button, <br>
 to make the homepage look better and modified code in stylesheets file also. <br>
+
 Here is the link to that commit <br>
 • https://github.com/sumana-reddy/GDP-1-project/commit/c034830de9b4df9b9d823edb1f7da1cda2e102ed
  
