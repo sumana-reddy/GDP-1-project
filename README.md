@@ -39,7 +39,7 @@ This is a mobile gaming application which enables the players(users of this game
     <td class="tg-0lax">s538395@nwmissouri.edu</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Sumana Reddy bathula</td>
+    <td class="tg-0lax">Sumana Reddy Reddybathula</td>
     <td class="tg-0lax">Project Manager</td>
     <td class="tg-0lax">s538360@nwmissouri.edu</td>
   </tr>
