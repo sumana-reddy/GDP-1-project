@@ -53,7 +53,7 @@ This is a mobile gaming application which enables the players(users of this game
 
 
 
-## Mentor
+## Mentor/ Client Description:
 - Dr. Denise Case
 - Assistant Professor,Northwest Missouri State University
 - 44-691 Graduate Directed Project 
