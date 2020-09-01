@@ -93,27 +93,42 @@ This is a mobile gaming application which enables the players(users of this game
 <img src="Images\sample data.PNG">
 
 ## Schedule Management
-<img src="Images\xcel.jpeg">
+| Work   Breakdown Structure Categories 	| Start Date 	| End Date 	| Estimated Hours   per person 	|   	|   	|   	|   	|   	| Total Est.Hours 	|
+|:-:	|-	|-	|-	|-	|-	|-	|-	|-	|-	|
+|   	|   	|   	| Developer 1 	| Developer 2 	| Developer 3 	| Developer 4 	| Developer 5 	| Developer 6 	|   	|
+| Initiating 	| 8/22/2020 	| 8/23/2020 	| 2 	| 1.5 	| 1.5 	| 2 	| 1 	| 2 	| 10 	|
+| Planning 	| 8/23/2020 	| 8/24/2020 	| 1 	| 1.5 	| 1.5 	| 2 	| 2 	| 1.5 	| 9.5 	|
+| Designing 	| 8/25/2020 	| 11/31/2020 	| 1.5 	| 3 	| 2 	| 2.5 	| 1.5 	| 1 	| 11.5 	|
+|     UI Design 	| 8/25/2020 	| 9/15/2020 	|   	| 6 	|   	|   	|   	|   	| 6 	|
+|     Synthesis of Design 	| 9/16/2020 	| 10/15/2020 	| 1.5 	| 2 	| 2.5 	|   	| 1.5 	| 2 	| 9.5 	|
+|     Implementation Iteration 	| 10/16/2020 	| 11/4/2020 	|   	|   	| 5.5 	|   	|   	|   	| 5.5 	|
+|     Early release and contract finalization 	| 11/5/2020 	| 11/31/2020 	|   	|   	|   	|   	| 7 	|   	| 7 	|
+| Implementation 	| 1/20/2021 	| 3/30/2021 	| 1 	| 2 	| 3 	| 2 	| 1.5 	| 1 	| 10.5 	|
+|     Application Development 	| 1/20/2021 	| 2/5/2021 	| 2 	| 1.5 	| 2.5 	| 1.5 	| 2 	| 1.5 	| 11 	|
+|     PWA Implementation 	| 2/6/2021 	| 2/28/2021 	| 5 	|   	|   	|   	|   	|   	| 5 	|
+|     Android/IOS implementation 	| 3/1/2021 	| 3/30/2021 	|   	|   	|   	| 6 	|   	|   	| 6 	|
+| Monitoring and   controlling 	| 4/3/2021 	| 4/17/2021 	| 1 	| 2.5 	| 1.5 	| 4 	| 1.5 	| 1.5 	| 12 	|
+| Closing 	| 4/18/2021 	| 5/1/2021 	|   	|   	|   	|   	|   	| 6.5 	| 6.5 	|
+| Total 	|   	|   	| 15 	| 20 	| 20 	| 20 	| 18 	| 17 	| 110 	|
 
 ## Cost Estimate
 
-|    Work   Breakdown Structure Categories    | Total Team Cost | No. of Hours   per week | Total cost per   week | Total cost for   three sprints |   |
-|:-------------------------------------------:|-----------------|-------------------------|-----------------------|--------------------------------|---|
-| Initiating                                  | $350            | 9                       | $3,150                | 18,900                         |   |
-| Planning                                    | $350            | 12                      | $4,200                | $25,200                        |   |
-| Designing                                   | $350            | 11                      | $3,850                | $23,100                        |   |
-|     UI Design                               | 0               | 4                       | 0                     | 0                              |   |
-|     Synthesis of Design                     | 0               | 4                       | 0                     | 0                              |   |
-|     Implementation Iteration                | 0               | 3                       | 0                     | 0                              |   |
-|     Early release and contract finalization | 0               | 3                       | 0                     | 0                              |   |
-| Implementation                              | $350            | 12                      | $4,200                | $25,200                        |   |
-|     Application Development                 | 0               | 6                       | 0                     | 0                              |   |
-|     PWA Implementation                      | 0               | 3                       | 0                     | 0                              |   |
-|     Android/IOS implementation              | 0               | 3                       | 0                     | 0                              |   |
-| Monitoring and   controlling                | $350            | 11                      | $3,850                | $23,100                        |   |
-| Closing                                     | $350            | 10                      | $3,500                | $21,000                        |   |
-| Total                                       |                 |                         |                       | $136,500                       |   |
-|                                             |                 |                         |                       |                                |   |
+| Work   Breakdown Structure Categories 	| Total Team Cost 	| No. of Hours   per week 	| Total cost per   week 	| Toatal Cost For Three Sprints 	|
+|:-:	|-	|-	|-	|-	|
+| Initiating 	| $350  	| 10 	| $3,500  	| $10,500  	|
+| Planning 	| $350  	| 9.5 	| $3,325  	| $9,975  	|
+| Designing 	| $350  	| 11.5 	| $4,025  	| $12,075  	|
+|     UI Design 	| $350  	| 6 	| $2,100  	| $6,300  	|
+|     Synthesis of Design 	| $350  	| 9.5 	| $3,325  	| $9,975  	|
+|     Implementation Iteration 	| $350  	| 5.5 	| $1,925  	| $5,775  	|
+|     Early release and contract finalization 	| $350  	| 7 	| $2,450  	| $7,350  	|
+| Implementation 	| $350  	| 10.5 	| $3,675  	| $11,025  	|
+|     Application Development 	| $350  	| 11 	| $3,850  	| $11,550  	|
+|     PWA Implementation 	| $350  	| 5 	| $1,750  	| $5,250  	|
+|     Android/IOS implementation 	| $350  	| 6 	| $2,100  	| $6,300  	|
+| Monitoring and   controlling 	| $350  	| 12 	| $4,200  	| $12,600  	|
+| Closing 	| $350  	| 6.5 	| $2,275  	| $6,825  	|
+| Total 	|   	| 110 	| $38,500  	| $115,500  	|
 
 - The developers required for this application is 6.
 - The estimated total cost for this application is $136500 as mentioned in the cost estimation table.
