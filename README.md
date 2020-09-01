@@ -5,7 +5,7 @@
 This is the project charter for the Northwest Gaming Application. This Application will be developed as a Progressive Web application.
 
 ## Project Purpose:
-This is a mobile gaming application which enables the players(users of this game) to complete a quest which is finding out specific set of location based on the clues provided. This is a fun game aimed at involving the students at northwest missouri state unniversity to make their respective teams and participate in the competition to score maximum points based on the level of the difficulty. The team with maximum points wins the competition.
+This is a mobile gaming application which enables the players(users of this game) to complete a quest which is finding out specific set of location based on the clues provided. This is a fun game aimed at involving the students at Northwest Missouri State University to make their respective teams and participate in the competition to score maximum points based on the level of the difficulty. As we all know due to the ongoing pandemic it is really difficult to get together a group of people but this game will provide the paltform to get along  and meeting new people while still maintaining the social distancing. This also helps the students in improving the mental and physical fitness as the clues will be tricky a person has to walk/jog/run(depends on the interest of the person) to these locations. 
 
 ## Team members
 
@@ -90,7 +90,7 @@ This is a mobile gaming application which enables the players(users of this game
 
 ## Sample Data/Demo chart of Application
 
-<img src="Images\sample data.PNG">
+<img src="Images\Updated_flowchart.png">
 
 ## Schedule Management
 | Work   Breakdown Structure Categories 	| Start Date 	| End Date 	| Estimated Hours   per person 	|   	|   	|   	|   	|   	| Total Est.Hours 	|
@@ -131,11 +131,14 @@ This is a mobile gaming application which enables the players(users of this game
 | Total 	|   	| 110 	| $38,500  	| $115,500  	|
 
 - The developers required for this application is 6.
-- The estimated total cost for this application is $136500 as mentioned in the cost estimation table.
+- The estimated total cost for this application is $115,500 as mentioned in the cost estimation table.
 
 ## Risks and Challenges:
 - The app is based on the locations and to find the location accurately GPS is to be used which could a challenging and tricky task.
 - This game is based on finding the locations which are outdoor and given the present scenario social distancing must be followed to play this game.
+- The specification of the location coordinates in the game is also a challenging part.
+- Handling data will be a issue here as any player can leave and join a new team whenever he desires to. This will make the desiging the database a difficult task.
+
 
 ## Advantages:
 - This game helps the players in physical activity as the players have to walk around to find the locations.
