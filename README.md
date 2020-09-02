@@ -241,6 +241,7 @@ This the page where the points earned by different teams are displayed(Highest p
 
 # Challenges Page:
 This is the page where all the challenges are displayed for the teams to participate.
+
 <img src = "proposed\Competition.png">
 
 # Settings Page:
