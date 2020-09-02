@@ -233,19 +233,19 @@ This emphasises the color of our college.
 
 # Leaderboard Page:
 This the page where the points earned by different teams are displayed(Highest points to lowest points)
-<img src = "proposed\Leaderboard.jpeg">
+<img src = "proposed\Leaderboard.png">
 
 # Quest Creation Page: This is the page where the Hunt master creates a new quest. 
 
-<img src = "proposed\quest.jpeg">
+<img src = "proposed\quest.png">
 
 # Challenges Page:
 This is the page where all the challenges are displayed for the teams to participate.
-<img src = "proposed\challenge.jpeg">
+<img src = "proposed\Competition.png">
 
 # Settings Page:
 This is th epage where user's profile can be edited, about, help and logout options are provided.
-<img src = "proposed\setting.jpeg">
+<img src = "proposed\Settings.png">
 
 ## Jira screenshot : 
 <img src ="Images\updated_jira.PNG">
