@@ -160,7 +160,7 @@ This is a mobile gaming application which enables the players(users of this game
 
 ## Sprint - 1
 # User Story - 1
-As a User any student with a valid email can sigup and play the game.
+Any user must login/signup for the game.
 # Acceptance criteria:
 Being a UI developer for this application I take up this task and make sure it works out for every valid email.
 
