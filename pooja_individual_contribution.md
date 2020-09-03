@@ -11,11 +11,11 @@
 • 08-24-2020 – In person class<br>
 • 08-26-2020 – zoom session <br>
 • 08-28-2020 – zoom doubts clarifying session <br>
-• For attendance I think I earned __280 points__(total 4 classes with 50 minutes each is approximately 3 hours)<br>
+• For attendance I think I earned __200 points__(total 4 classes with 50 minutes each is approximately 3 hours)<br>
 
 ## 2. Half day 1 (August 23 2020)
 
-2.1 After creating the repo I checked the content in Readme.md and rectified small spelling mistakes.<br>
+2.1 After creating the repo I checked the content in Readme.md and did some corrections to it<br>
 
 Here is the link to the commit <br>
 • https://github.com/sumana-reddy/GDP-1-project/commit/3a2a1366c6cfa037b2f1362de67cb4868d022a10
@@ -35,7 +35,7 @@ Here is the link to that commit  <br>
 -> We are giving our hundred percent on our project.Am working on the website part of the project.<br>
 This is the first time am working and learning app development,<br> 
 as I am learning new things I am ready to work hard and do the best for the project.<br>
--> I think I earned __280 points__ in this section.<br>
+-> I think I earned __300 points__ in this section.<br>
 
 ## 3. Half day 2 (August 24 2020)
 
@@ -63,7 +63,7 @@ Here is the link to that commit <br>
 • https://github.com/sumana-reddy/GDP-1-project/commit/c4603b1f8bc00a1b1e53e39257e3a858fa8d78b3
  
 3.5 How many points you earned in each section?<br>
--> I think I earned __280 points__ in this section.
+-> I think I earned __300 points__ in this section.
 
 ## 4. Half day 3 (August 25 2020)
 
@@ -88,5 +88,5 @@ Here is the link to that commit<br>
 • https://vikasbaswapuram.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=NGA&selectedIssue=NGA-2
 
 4.5 How many points you earned in each section? <br>
--> I think I earned __280 points__ in this section.
+-> I think I earned __300 points__ in this section.
 
