@@ -1,0 +1,19 @@
+Email subject line: 44691-02- Grateful for your guidance and expertise!
+
+Dear Prof. Dr. Hoot,
+
+I am a master's student in Applied Computer Science at Northwest Missouri State University. On behalf of our team,
+I would like to extend a heartfelt thank you for coming to our presentation of our Graduate Direct Project -01 "Northwest Gaming Application" on 09/02/2020
+on 8:00 AM at Colden Hall 1700, NWMSU, Maryville, MO,64468.
+
+We will work on the feedback that we received today regarding the cost estimation, home page design, including sprint schedule in user stories, and,
+we will work together to resolve all the issues in our repo.This feedback will be very helpful in the development of this application.
+We will be in touch with you over the next couple of weeks to discuss and confirm the things which I have mentioned above.
+
+we know your time is precious and we are grateful you shared some of it with us.
+
+Again, Thank you for your time today. We hope to see you again soon.
+
+
+Sincerely,
+[Gundu Pooja,s538295@nwmissouri.edu]
