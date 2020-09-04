@@ -464,25 +464,36 @@ The user can join a competition when the competition starts.
 Once the competition is open, teams which are stored in the database should be able to join the competition. If a new team is formed after the start date of the competition they should still be able to join the competition until and unless the competition is closed.
 
 # User Story - 8
-As a developer the requirements are to be determined for the application to be developed.
+As a User, I want to join a competition when it starts.
 # Acceptance Criteria:
-The initial requirements are identified and were mentioned in the read me file and these are subject to change based on the requirements provided by the client if any.
+The user will get to know about the competition via notifications.
+A notification is to be sent to all the users who have registered ids prior to the start of the competition.
 
 ## Sprint - 2
 # User Story - 9
-As a team Project Signoff is be made with outmost care with clear details about everything
+As a User I want to know about the scoring details of the competition.
 # Acceptance Criteria:
-The project manager will take care of this signoff after regular meetings with the client.
+The user can look at the info about the scoring in the about page.
+An about page is to created for the users and the information regarding the competition and its scoring details are to be mentioned in it.
 
 # User Story - 10
-Project Flyer
+As a User I want to look at the points scored by the team.
 # Acceptance Criteria:
-A roject flyer is prepared and passe on to kick start the project.
+The user can access this detail on the leaderboard page.
+A leaderboard page is to be created and the points scored by the team are to displayed in the descending order i.e the team with the highest points should be displayed with team name and their points on the top indicating that they are in the first position.
 
 # User Story - 11
- As a Team the schedule for the MVP releases are set.
+As a user I want to know how the team points are calculated.
 # Acceptance Criteria:
-The shedule is decided and developers start working based on the requirements.
+The user who is in a team will earn points and all the points by the team members together are counted as the team points.
+The scoring criteria determined in the competition are to be identified and implemented once the person reaches the location and these points should be stored in the database. these should be retrievable whenever the user wishes to look at the team score.
+The position of other teams and their points should be visible to all the teams in the competition.
+
+# User story - 12
+As a User I want to know the limit of the players per team.
+# Acceptance Criteria :
+The user will be able to add a maximum of 3 players making it a team of 4 players.
+The user should be given a provision to add the players and once the max limit is reached the user should be notified with a message stating max limit reached.   
 
 ## Sprint - 3( Scheduled  for the GDP-2)
 # UI development finalisation
