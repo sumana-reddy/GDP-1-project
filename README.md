@@ -479,7 +479,8 @@ An about page is to created for the users and the information regarding the comp
 # User Story - 10
 As a User I want to look at the points scored by the team.
 # Acceptance Criteria:
-A roject flyer is prepared and passe on to kick start the project.
+The user can access this detail on the leaderboard page.
+A leaderboard page is to be created and the points scored by the team are to displayed in the descending order i.e the team with the highest points should be displayed with team name and their points on the top indicating that they are in the first position.
 
 # User Story - 11
  As a Team the schedule for the MVP releases are set.
