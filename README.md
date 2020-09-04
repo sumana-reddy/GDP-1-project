@@ -66,7 +66,7 @@ This is a mobile gaming application which enables the players(users of this game
 
 
 ## ER Diagram
-<img src="proposed\Final ERD.jpeg">
+<img src="Images\ERD_GDP-1.PNG">
 
 ## User Entity
 - Any person with a valid email and wishes to register for the game is defined as user.
