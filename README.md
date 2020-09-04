@@ -176,7 +176,7 @@ The user who creates a team will serve as the captain.
 The user Id of this person  and the info the team should be added into the database as the captain and should be retrievable whenever required. 
 
 # User Story - 3
-As a Team Schedule for this application is to be charted down.
+As a User I want to Join a Team.
 # Acceptance Criteria:
 All the team members have met in a place and an estimate is recorded taking all the things into consideration and this is aldo due for the presentation.
 
