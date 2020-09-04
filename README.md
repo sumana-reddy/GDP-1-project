@@ -106,9 +106,9 @@ This is a mobile gaming application which enables the players(users of this game
 <tbody>
   <tr>
     <td class="tg-0lax"><b>1</b></td>
-    <td class="tg-0lax">Sprint 0</td>
-    <td class="tg-0lax">-</td>
-    <td class="tg-0lax">200</td>
+    <td class="tg-0lax"><b>Sprint 0<b></td>
+    <td class="tg-0lax"><b>-</b></td>
+    <td class="tg-0lax"><b>200</b></td>
   </tr>
   <tr>
     <td class="tg-0lax">1.1</td>
@@ -159,10 +159,10 @@ This is a mobile gaming application which enables the players(users of this game
     <td class="tg-0lax">26</td>
   </tr>
   <tr>
-    <td class="tg-0lax">2</td>
-    <td class="tg-0lax">Sprint 1</td>
-    <td class="tg-0lax">-</td>
-    <td class="tg-0lax">200</td>
+    <td class="tg-0lax"><b>2</b></td>
+    <td class="tg-0lax"><b>Sprint 1</b></td>
+    <td class="tg-0lax"><b>-</b></td>
+    <td class="tg-0lax"><b>200</b></td>
   </tr>
   <tr>
     <td class="tg-0lax">2.1</td>
@@ -195,10 +195,10 @@ This is a mobile gaming application which enables the players(users of this game
     <td class="tg-0lax">50</td>
   </tr>
   <tr>
-    <td class="tg-0lax">3</td>
-    <td class="tg-0lax">Sprint 2</td>
-    <td class="tg-0lax">-</td>
-    <td class="tg-0lax">200</td>
+    <td class="tg-0lax"><b>3</b></td>
+    <td class="tg-0lax"><b>Sprint 2</b></td>
+    <td class="tg-0lax"><b>-</b></td>
+    <td class="tg-0lax"><b>200</b></td>
   </tr>
   <tr>
     <td class="tg-0lax">3.1</td>
@@ -231,10 +231,10 @@ This is a mobile gaming application which enables the players(users of this game
     <td class="tg-0lax">50</td>
   </tr>
   <tr>
-    <td class="tg-0lax">4</td>
-    <td class="tg-0lax">Sprint 3</td>
-    <td class="tg-0lax">-</td>
-    <td class="tg-0lax">200</td>
+    <td class="tg-0lax"><b>4</b></td>
+    <td class="tg-0lax"><b>Sprint 3</b></td>
+    <td class="tg-0lax"><b>-</b></td>
+    <td class="tg-0lax"><b>200</b></td>
   </tr>
   <tr>
     <td class="tg-0lax">4.1</td>
@@ -267,10 +267,10 @@ This is a mobile gaming application which enables the players(users of this game
     <td class="tg-0lax">50</td>
   </tr>
   <tr>
-    <td class="tg-0lax">5</td>
-    <td class="tg-0lax">Sprint 4</td>
-    <td class="tg-0lax">-</td>
-    <td class="tg-0lax">600</td>
+    <td class="tg-0lax"><b>5</b></td>
+    <td class="tg-0lax"><b>Sprint 4 (GDP 2) all sprints</b></td>
+    <td class="tg-0lax"><b>-</b></td>
+    <td class="tg-0lax"><b>600</b></td>
   </tr>
   <tr>
     <td class="tg-0lax">5.1</td>
