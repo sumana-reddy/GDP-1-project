@@ -68,9 +68,9 @@ This is a mobile gaming application which enables the players(users of this game
 ## ER Diagram
 <img src="Images\ERD_GDP-1.PNG">
 
-## Game assumptions for the ERD:
+# Game assumptions for the ERD:
 
-# USER REGISTRATION AND TEAM CRITERIA:
+## USER REGISTRATION AND TEAM CRITERIA:
 
 - Any person with the valid email id can register for the game. They can also save a nickname of their choice for their userid. 
 - The user can create a team or send an invite to join a team. The user can also accept or reject the invites they might get from the teams to join them.
@@ -78,20 +78,20 @@ This is a mobile gaming application which enables the players(users of this game
 - The hunt master will be only one person and he/she will also to register i.e the hunt master is also a user but will be given previlages to access the create quest page. 
 - This is done by making sure we identify the hunt master prior to the realease of the game and store that person's id as the huntmaster which will enable them to access the create quest page.
 
-# QUESTS, LOCATIONS AND COMPETITION:
+## QUESTS, LOCATIONS AND COMPETITION:
 
 - A quest will have set of location coordinates. The first location coordinates will be displayed to the user if they crack the clue given to them initially. Once that person reaches the location after unlocking the coordinates he will get next clue for the next location.
 - This goes on till all the locations have been identified and claimed.
 - The series of quests/quest created are grouped together and is added to competition where each competition will have a unique name, start date and end date.
 - Once the start date is confirmed and entered a notification is sent to all the users about this.
 
-# SCORING:
+## SCORING:
 
 - The scoring is given to individuals once they have reached the location. The first individual to reach there will get the maximum points. The next individual to get to the location cannot get the maximum points but will be awarded with a decrement of 10% of the max points and this goes on till the 50% and if there are still players left they will also be warded 50% of the points.
 - The team score is total sum of all the individual player scores. The team who finishes finding all the locations fisrt will be awarded bonus points. Only one will get the bonus and no other team can get it.
 - The No of persons per team will be limited to a maximum of 4 players and a minimum of 1 player thus giving a chance to form more teams and making the competition and the leaderboard interesting.
 
-# GENERAL RULES:
+## GENERAL RULES:
 
 - The user can join any team only upon approval from the team captain. But if they wish to leave approval is not required.
 - Once a team enters a competition with full capacity then no player from that team can leave the team until the competition ends. 
@@ -412,37 +412,37 @@ This is a mobile gaming application which enables the players(users of this game
 - Should be able to plan the route using location.
 - One must have some knowledge to accumulate the clues and reach the treasure.
 
-## User Stories:
+# User Stories:
 
 ## Sprint - 1
-# User Story - 1
+## User Story - 1
 As a User I want to login/Signup for the game.
-# Acceptance criteria:
+## Acceptance criteria:
 The User should have a valid email Id to Signup for the game.
 Upon signing up for the game the user will be prompted to enter a username/nickname of his choice.
-If the entered username/nickname is alraedy taken then he will prompted the same and after this point he will bee identified as a player.
-If the user has already signed up for the game he can login with the username and password.
+If the entered username/nickname is alraedy taken then he/she will prompted the same and after this point he/she will be identified as a player.
+If the user has already signed up for the game he/she can login with the username and password.
 The user Id should be persisted in the database along with the user's info when completing the registration.
 
-# User Story - 2
+## User Story - 2
 As a user I want to create a team.
-# Acceptance Criteria:
-The User can create a team upon signing up and he will prompted to enter a team name.
+## Acceptance Criteria:
+The User can create a team upon signing up and he/she will prompted to enter a team name.
 The user who creates a team will serve as the captain.
 The user Id of this person  and the info the team should be added into the database as the captain and should be retrievable whenever required. 
 
-# User Story - 3
+## User Story - 3
 As a User I want to Join a Team.
-# Acceptance Criteria:
-The User can join any team he wishes to and will have to search for the team name he wants to join.
-Once he decides a team to join he will have to send a request to join their team.
-The user should be able to access all the teams available for him to join.
+## Acceptance Criteria:
+The User can join any team he/she wishes to and will have to search for the team name he/she wants to join.
+Once he/she decides a team to join he/she will have to send a request to join their team.
+The user should be able to access all the teams available for him/her to join.
 
 
-# User Story - 4
+## User Story - 4
 As a User(captain) I want to accept/decline an invite of a player.
-# Acceptance Criteria:
-The user can accept/decline an invite of another player after looking up his invitation.
+## Acceptance Criteria:
+The user can accept/decline an invite of another player after looking up his/her invitation.
 The request should be visible in the notifications to the team/team captain.
 
 # User Story - 5
@@ -492,29 +492,30 @@ The shedule is decided and developers start working based on the requirements.
 - Jira : [jira Link](https://vikasbaswapuram.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=NGA&selectedIssue=NGA-1)
 
 
-## proposed screens : 
-# Home page: 
+# Proposed screens : 
+
+## Home page: 
 This emphasises the color of our college.
 <img src = "proposed\homepage.jpeg">
 
-# Leaderboard Page:
+## Leaderboard Page:
 This the page where the points earned by different teams are displayed(Highest points to lowest points)
 <img src = "proposed\Leaderboard.png">
 
-# Quest Creation Page: This is the page where the Hunt master creates a new quest. 
+## Quest Creation Page: This is the page where the Hunt master creates a new quest. 
 
 <img src = "proposed\quest.png">
 
-# Challenges Page:
+## Challenges Page:
 This is the page where all the challenges are displayed for the teams to participate.
 
 <img src = "proposed\Competition.png">
 
-# Settings Page:
+## Settings Page:
 This is the page where user's profile can be edited, about, help and logout options are provided.
 <img src = "proposed\Settings.png">
 
-# Game Page:
+## Game Page:
 This is the page where the user can be able to view the map of Northwest Missouri state University and can be able to access the clues.
 <img src = "proposed/Game_Screen.png">
 
