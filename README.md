@@ -156,25 +156,6 @@ This is a mobile gaming application which enables the players(users of this game
 
 
 
-
-
-| Work   Breakdown Structure Categories 	| Total Team Cost 	| No. of Hours   per week 	| Total cost per   week 	| Toatal Cost For Three Sprints 	|
-|:-:	|-	|-	|-	|-	|
-| Initiating 	| $350  	| 10 	| $3,500  	| $10,500  	|
-| Planning 	| $350  	| 9.5 	| $3,325  	| $9,975  	|
-| Designing 	| $350  	| 11.5 	| $4,025  	| $12,075  	|
-|     UI Design 	| $350  	| 6 	| $2,100  	| $6,300  	|
-|     Synthesis of Design 	| $350  	| 9.5 	| $3,325  	| $9,975  	|
-|     Implementation Iteration 	| $350  	| 5.5 	| $1,925  	| $5,775  	|
-|     Early release and contract finalization 	| $350  	| 7 	| $2,450  	| $7,350  	|
-| Implementation 	| $350  	| 10.5 	| $3,675  	| $11,025  	|
-|     Application Development 	| $350  	| 11 	| $3,850  	| $11,550  	|
-|     PWA Implementation 	| $350  	| 5 	| $1,750  	| $5,250  	|
-|     Android/IOS implementation 	| $350  	| 6 	| $2,100  	| $6,300  	|
-| Monitoring and   controlling 	| $350  	| 12 	| $4,200  	| $12,600  	|
-| Closing 	| $350  	| 6.5 	| $2,275  	| $6,825  	|
-| Total 	|   	| 110 	| $38,500  	| $115,500  	|
-
 - The developers required for this application is 6.
 - The estimated total cost for this application is $115,500 as mentioned in the cost estimation table.
 
