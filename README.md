@@ -454,11 +454,11 @@ The huntmaster is assigned to only one person and the userid and other info is s
 # User story - 6
 As a User(huntmaster) I want to add multiple locations in a single quest.
 # Acceptance Criteria:
-The user can add multiple locations in the creative a quest page.
+The user can add multiple locations in creating a quest page.
 The locations added can be only be accessed after decoding the clue and only one location has to be released and once that person reaches that location then the clue for the next location is to be displayed from the database and so on until all the locations are finished.
 
 # User Story - 7
-As a UI/FrontEnd developer proposed screens for the application are to be craeted and displayed.
+As a User, I want to join a competition.
 # Acceptance Criteria:
 A set of proposed screens were designed using online design tool(Figmaa) and are yet to be reviwed by the client. These are also subject to change after the feedback/review from the client presentation.
 
