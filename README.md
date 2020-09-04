@@ -477,7 +477,7 @@ The user can look at the info about the scoring in the about page.
 An about page is to created for the users and the information regarding the competition and its scoring details are to be mentioned in it.
 
 # User Story - 10
-As a User I want to look at the points scored by the team
+As a User I want to look at the points scored by the team.
 # Acceptance Criteria:
 A roject flyer is prepared and passe on to kick start the project.
 
