@@ -460,7 +460,8 @@ The locations added can be only be accessed after decoding the clue and only one
 # User Story - 7
 As a User, I want to join a competition.
 # Acceptance Criteria:
-A set of proposed screens were designed using online design tool(Figmaa) and are yet to be reviwed by the client. These are also subject to change after the feedback/review from the client presentation.
+The user can join a competition when the competition starts.
+Once the competition is open, teams which are stored in the database should be able to join the competition. If a new team is formed after the start date of the competition they should still be able to join the competition until and unless the competition is closed.
 
 # User Story - 8
 As a developer the requirements are to be determined for the application to be developed.
