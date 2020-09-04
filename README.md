@@ -351,11 +351,9 @@ This is a mobile gaming application which enables the players(users of this game
 |                                                             |     TOTAL PROJECT COST                 |             |                   |                 |        $350,000        |
 
 
-
+- The team cost per hour is $350.
 - The developers required for this application is 6.
-- The estimated total cost for this application is $115,500 as mentioned in the cost estimation table.
-
-## Updated cost estimate as per client reviews 
+- The estimated total cost for this application is $350,000 as mentioned in the cost estimation table.
 
 
 
