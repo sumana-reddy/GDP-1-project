@@ -485,7 +485,10 @@ A leaderboard page is to be created and the points scored by the team are to dis
 # User Story - 11
 As a user I want to know how the team points are calculated.
 # Acceptance Criteria:
-The shedule is decided and developers start working based on the requirements.
+The user who is in a team will earn points and all the points by the team members together are counted as the team points.
+The scoring criteria determined in the competition are to be identified and implemented once the person reaches the location and these points should be stored in the database. these should be retrievable whenever the user wishes to look at the team score.
+The position of other teams and their points should be visible to all the teams in the competition.
+
 
 ## Sprint - 3( Scheduled  for the GDP-2)
 # UI development finalisation
