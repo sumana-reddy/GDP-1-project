@@ -557,7 +557,8 @@ As a user I want to know if there are any points reduced if I use the hints fiel
 
 # Rapid MVP Team Links
 
-- Jira : [jira Link](https://vikasbaswapuram.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=NGA&selectedIssue=NGA-1)
+## Jira Link :
+ [jira Link](https://vikasbaswapuram.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=NQHG&view=planning&selectedIssue=NQHG-8&issueLimit=100)
 
 
 # Proposed screens : 
