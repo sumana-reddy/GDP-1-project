@@ -483,7 +483,7 @@ The user can access this detail on the leaderboard page.
 A leaderboard page is to be created and the points scored by the team are to displayed in the descending order i.e the team with the highest points should be displayed with team name and their points on the top indicating that they are in the first position.
 
 # User Story - 11
- As a Team the schedule for the MVP releases are set.
+As a user I want to know how the team points are calculated.
 # Acceptance Criteria:
 The shedule is decided and developers start working based on the requirements.
 
