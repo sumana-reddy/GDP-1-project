@@ -481,8 +481,12 @@ This is the page where all the challenges are displayed for the teams to partici
 <img src = "proposed\Competition.png">
 
 # Settings Page:
-This is th epage where user's profile can be edited, about, help and logout options are provided.
+This is the page where user's profile can be edited, about, help and logout options are provided.
 <img src = "proposed\Settings.png">
+
+# Game Page:
+This is the page where the user can be able to view the map of Northwest Missouri state University and can be able to access the clues.
+<img src = "proposed/Game_Screen.png">
 
 ## Jira screenshot : 
 <img src ="Images\updated_jira.PNG">
