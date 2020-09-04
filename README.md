@@ -464,9 +464,10 @@ The user can join a competition when the competition starts.
 Once the competition is open, teams which are stored in the database should be able to join the competition. If a new team is formed after the start date of the competition they should still be able to join the competition until and unless the competition is closed.
 
 # User Story - 8
-As a developer the requirements are to be determined for the application to be developed.
+As a User, I want to join a competition when it starts.
 # Acceptance Criteria:
-The initial requirements are identified and were mentioned in the read me file and these are subject to change based on the requirements provided by the client if any.
+The user will get to know about the competition via notifications.
+A notification is to be sent to all the users who have registered ids prior to the start of the competition.
 
 ## Sprint - 2
 # User Story - 9
