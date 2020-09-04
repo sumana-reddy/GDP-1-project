@@ -491,6 +491,9 @@ The position of other teams and their points should be visible to all the teams 
 
 # User story - 12
 As a User I want to know the limit of the players per team.
+# Acceptance Criteria :
+The user will be able to add a maximum of 3 players making it a team of 4 players.
+The user should be given a provision to add the players and once the max limit is reached the user should be notified with a message stating max limit reached.   
 
 ## Sprint - 3( Scheduled  for the GDP-2)
 # UI development finalisation
