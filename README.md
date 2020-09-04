@@ -178,7 +178,10 @@ The user Id of this person  and the info the team should be added into the datab
 # User Story - 3
 As a User I want to Join a Team.
 # Acceptance Criteria:
-All the team members have met in a place and an estimate is recorded taking all the things into consideration and this is aldo due for the presentation.
+The User can join any team he wishes to and will have to search for the team name he wants to join.
+Once he decides a team to join he will have to send a request to join their team.
+The user should be able to access all the teams available for him to join.
+
 
 # User Story - 4
 As a Team Budget/Cost estimation for this application to develop is to be decided.
