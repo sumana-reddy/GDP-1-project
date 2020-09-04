@@ -446,7 +446,7 @@ The user can accept/decline an invite of another player after looking up his inv
 The request should be visible in the notifications to the team/team captain.
 
 # User Story - 5
-As a Data developer ERD is to be developed based on the entities mentioned in the RFP.
+As a user I want to act as the huntmaster and create quest.
 # Acceptance Criteria:
 The given Task for the development of the ERD has been finished and yet to be reviewed. The developed ERD has been updated in the Team repository.
 
