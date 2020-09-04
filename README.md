@@ -471,12 +471,13 @@ A notification is to be sent to all the users who have registered ids prior to t
 
 ## Sprint - 2
 # User Story - 9
-As a team Project Signoff is be made with outmost care with clear details about everything
+As a User I want to know about the scoring details of the competition.
 # Acceptance Criteria:
-The project manager will take care of this signoff after regular meetings with the client.
+The user can look at the info about the scoring in the about page.
+An about page is to created for the users and the information regarding the competition and its scoring details are to be mentioned in it.
 
 # User Story - 10
-Project Flyer
+As a User I want to look at the points scored by the team
 # Acceptance Criteria:
 A roject flyer is prepared and passe on to kick start the project.
 
