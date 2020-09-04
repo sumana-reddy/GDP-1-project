@@ -168,11 +168,12 @@ If the entered username/nickname is alraedy taken then he will prompted the same
 If the user has already signed up for the game he can login with the username and password.
 The user Id should be persisted in the database along with the user's info when completing the registration.
 
-
 # User Story - 2
-As a Team a proposal document is to be created for this Northwest Gaming Application
+To play the game one of the scenarios is to create a team.
 # Acceptance Criteria:
-All the team members are discussing the essential requirements and have come up with the requirements with is yet to be presented.
+The User can create a team upon signing up and he will prompted to enter a team name.
+The user who creates a team will act as the captain.
+The user Id of this person and the info the team should be added into the database as the captain and should be retrievable whenever required. 
 
 # User Story - 3
 As a Team Schedule for this application is to be charted down.
