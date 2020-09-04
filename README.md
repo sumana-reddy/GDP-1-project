@@ -184,7 +184,7 @@ The user should be able to access all the teams available for him to join.
 
 
 # User Story - 4
-As a Team Budget/Cost estimation for this application to develop is to be decided.
+As a User(captain) I want to accept/decline an invite of a player.
 # Acceptance Criteria:
 This is a tricky task but yet an estimate is generated which might be subject to change based on the feedback/review of the client.
 
