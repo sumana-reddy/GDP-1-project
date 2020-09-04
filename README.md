@@ -97,7 +97,7 @@ This is a mobile gaming application which enables the players(users of this game
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0lax"><b>WBS NO.</b></th>
+    <th class="tg-0lax">WBS NO.</th>
     <th class="tg-0lax">TASK NAME</th>
     <th class="tg-0lax">STATUS</th>
     <th class="tg-0lax">DURATION in hrs</th>
@@ -105,7 +105,7 @@ This is a mobile gaming application which enables the players(users of this game
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">1</td>
+    <td class="tg-0lax"><b>1</b></td>
     <td class="tg-0lax">Sprint 0</td>
     <td class="tg-0lax">-</td>
     <td class="tg-0lax">200</td>
@@ -160,7 +160,7 @@ This is a mobile gaming application which enables the players(users of this game
   </tr>
   <tr>
     <td class="tg-0lax">2</td>
-    <td class="tg-0lax">Sprint 2</td>
+    <td class="tg-0lax">Sprint 1</td>
     <td class="tg-0lax">-</td>
     <td class="tg-0lax">200</td>
   </tr>
