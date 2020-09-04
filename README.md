@@ -416,92 +416,146 @@ This is a mobile gaming application which enables the players(users of this game
 
 ## Sprint - 1
 ## User Story - 1
-As a User I want to login/Signup for the game.
+- As a User I want to login/Signup for the game.
 ## Acceptance criteria:
-The User should have a valid email Id to Signup for the game.
-Upon signing up for the game the user will be prompted to enter a username/nickname of his choice.
-If the entered username/nickname is alraedy taken then he/she will prompted the same and after this point he/she will be identified as a player.
-If the user has already signed up for the game he/she can login with the username and password.
-The user Id should be persisted in the database along with the user's info when completing the registration.
+- The User should have a valid email Id to Signup for the game.
+- Upon signing up for the game the user will be prompted to enter a username/nickname of his choice.
+- If the entered username/nickname is alraedy taken then he/she will prompted the same and after this point he/she will be identified as a player.
+- If the user has already signed up for the game he/she can login with the username and password.
+- The user Id should be persisted in the database along with the user's info when completing the registration.
 
 ## User Story - 2
 As a user I want to create a team.
 ## Acceptance Criteria:
-The User can create a team upon signing up and he/she will prompted to enter a team name.
-The user who creates a team will serve as the captain.
-The user Id of this person  and the info the team should be added into the database as the captain and should be retrievable whenever required. 
+- The User can create a team upon signing up and he/she will prompted to enter a team name.
+- The user who creates a team will serve as the captain.
+- The user Id of this person  and the info the team should be added into the database as the captain and should be retrievable whenever required. 
 
 ## User Story - 3
 As a User I want to Join a Team.
 ## Acceptance Criteria:
-The User can join any team he/she wishes to and will have to search for the team name he/she wants to join.
-Once he/she decides a team to join he/she will have to send a request to join their team.
-The user should be able to access all the teams available for him/her to join.
+- The User can join any team he/she wishes to and will have to search for the team name he/she wants to join.
+- Once he/she decides a team to join he/she will have to send a request to join their team.
+- The user should be able to access all the teams available for him/her to join.
 
 
 ## User Story - 4
 As a User(captain) I want to accept/decline an invite of a player.
 ## Acceptance Criteria:
-The user can accept/decline an invite of another player after looking up his/her invitation.
-The request should be visible in the notifications to the team/team captain.
+- The user can accept/decline an invite of another player after looking up his/her invitation.
+- The request should be visible in the notifications to the team/team captain.
 
-# User Story - 5
+## User Story - 5
 As a user I want to act as the huntmaster and create quest.
-# Acceptance Criteria:
-The user who is hunt master will be able to create quests.
-The huntmaster is assigned to only one person and the userid and other info is stored in the database such that only he can access the page of the create quest.
+## Acceptance Criteria:
+- The user who is hunt master will be able to create quests.
+- The huntmaster is assigned to only one person and the userid and other info is stored in the database such that only he can access the page of the create quest.
 
-# User story - 6
+## User story - 6
 As a User(huntmaster) I want to add multiple locations in a single quest.
-# Acceptance Criteria:
-The user can add multiple locations in creating a quest page.
-The locations added can be only be accessed after decoding the clue and only one location has to be released and once that person reaches that location then the clue for the next location is to be displayed from the database and so on until all the locations are finished.
+## Acceptance Criteria:
+- The user can add multiple locations in creating a quest page.
+- The locations added can be only be accessed after decoding the clue and only one location has to be released and once that person reaches that location then the clue for the next location is to be displayed from the database and so on until all the locations are finished.
 
-# User Story - 7
+## User Story - 7
 As a User, I want to join a competition.
-# Acceptance Criteria:
-The user can join a competition when the competition starts.
-Once the competition is open, teams which are stored in the database should be able to join the competition. If a new team is formed after the start date of the competition they should still be able to join the competition until and unless the competition is closed.
+## Acceptance Criteria:
+- The user can join a competition when the competition starts.
+- Once the competition is open, teams which are stored in the database should be able to join the competition. 
+- If a new team is formed after the start date of the competition they should still be able to join the competition until and unless the competition is closed.
 
-# User Story - 8
+## User Story - 8
 As a User, I want to join a competition when it starts.
-# Acceptance Criteria:
-The user will get to know about the competition via notifications.
-A notification is to be sent to all the users who have registered ids prior to the start of the competition.
+## Acceptance Criteria:
+- The user will get to know about the competition via notifications.
+- A notification is to be sent to all the users who have registered ids prior to the start of the competition.
 
-## Sprint - 2
-# User Story - 9
+## User Story - 9
 As a User I want to know about the scoring details of the competition.
-# Acceptance Criteria:
-The user can look at the info about the scoring in the about page.
-An about page is to created for the users and the information regarding the competition and its scoring details are to be mentioned in it.
+## Acceptance Criteria:
+- The user can look at the info about the scoring in the about page.
+- An about page is to created for the users and the information regarding the competition and its scoring details are to be mentioned in it.
 
-# User Story - 10
-As a User I want to look at the points scored by the team.
-# Acceptance Criteria:
-The user can access this detail on the leaderboard page.
-A leaderboard page is to be created and the points scored by the team are to displayed in the descending order i.e the team with the highest points should be displayed with team name and their points on the top indicating that they are in the first position.
+## User Story - 10
+- As a User I want to look at the points scored by the team.
+## Acceptance Criteria:
+- The user can access this detail on the leaderboard page.
+- A leaderboard page is to be created and the points scored by the team are to displayed in the descending order i.e the team with the highest points should be displayed with team name and their points on the top indicating that they are in the first position.
 
-# User Story - 11
+## User Story - 11
 As a user I want to know how the team points are calculated.
-# Acceptance Criteria:
-The user who is in a team will earn points and all the points by the team members together are counted as the team points.
-The scoring criteria determined in the competition are to be identified and implemented once the person reaches the location and these points should be stored in the database. these should be retrievable whenever the user wishes to look at the team score.
-The position of other teams and their points should be visible to all the teams in the competition.
+## Acceptance Criteria:
+- The user who is in a team will earn points and all the points by the team members together are counted as the team points.
+- The scoring criteria determined in the competition are to be identified and implemented once the person reaches the location and these points should be stored in the database. these should be retrievable whenever the user wishes to look at the team score.
+- The position of other teams and their points should be visible to all the teams in the competition.
 
-# User story - 12
+## User story - 12
 As a User I want to know the limit of the players per team.
-# Acceptance Criteria :
-The user will be able to add a maximum of 3 players making it a team of 4 players.
-The user should be given a provision to add the players and once the max limit is reached the user should be notified with a message stating max limit reached.   
+## Acceptance Criteria :
+- The user will be able to add a maximum of 3 players making it a team of 4 players.
+- The user should be given a provision to add the players and once the max limit is reached the user should be notified with a message stating max limit reached.    
 
-## Sprint - 3( Scheduled  for the GDP-2)
-# UI development finalisation
-# BackEnd development
-# Testing the application
-# Deployment of the application
+## User story - 13
 
-## Rapid MVP Team Links
+As a user I want to leave the team and join other team.
+
+## Acceptance criteria:
+
+- The user can leave the team and join other by sending a request to that other team.
+- However the user cannot leave the team once the competition starts. He can only leave the team after the completion of competition or before the start of the competition.
+- The respective data is to be stored in the database as per the changes of the user and should be allowed to do that.
+
+## User story - 14
+
+As a User I want to change my nick name.
+
+## Acceptance criteria:
+
+- The user is allowed to change the nick name whenever he desires to.
+- The user is allowed to change the nickname and the data is crosschecked with the existing the names and if they overlap the user should be prompted with the message name already taken, select another name.
+- This process repeats until a unique name is entered by the user.
+
+## User story - 15
+
+As a User  I want to create multiple accounts under one user id.
+
+## Acceptance criteria:
+
+- The user cannot create the multiple accounts under a single userid.
+- The data base will be created in such a way that every player will get a unique id associated with the mail provided and hence the user cannot create multiple accounts under one id.
+- If the user wants to maintain multiple acconts user has to provide multiple emial id as it will be the primary key for generating the userid.
+
+## User Story - 16
+
+As a user I want to know how many more locations are left to be found out.
+
+## Acceptance criteria:
+
+- The user can see this in the competition page where the player will participate.
+- The application should be designed such that the user can view the completed and to be completed status in the competition page.
+- If all the locations are finished then the competition bar should change its color.
+
+## User story -17
+
+As a user I want hints if I am unable to crack the clue.
+
+## Acceptance criteria:
+
+- The user can ask for hints if he/she is unable to crack the clue.
+- There should be provision for the hints in the database and the hint should be popped up on the screen if the user wishes for the hints in the clue page.
+
+## User story - 18
+
+As a user I want to know if there are any points reduced if I use the hints field.
+
+## Acceptance criteria:
+
+- The user will not be awarded if he uses the hints field to find out a location.
+- The program for this will coded to award less points to the player if they use the hints field even though he reaches that location first.
+
+
+
+# Rapid MVP Team Links
 
 - Jira : [jira Link](https://vikasbaswapuram.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=NGA&selectedIssue=NGA-1)
 
