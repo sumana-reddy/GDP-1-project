@@ -68,6 +68,38 @@ This is a mobile gaming application which enables the players(users of this game
 ## ER Diagram
 <img src="Images\ERD_GDP-1.PNG">
 
+## Game assumptions for the ERD:
+
+# USER REGISTRATION AND TEAM CRITERIA:
+
+- Any person with the valid email id can register for the game. They can also save a nickname of their choice for their userid. 
+- The user can create a team or send an invite to join a team. The user can also accept or reject the invites they might get from the teams to join them.
+- If the user creates a team then that user serves as the captain for that team and can send invites to other players to join the team he/she created.
+- The hunt master will be only one person and he/she will also to register i.e the hunt master is also a user but will be given previlages to access the create quest page. 
+- This is done by making sure we identify the hunt master prior to the realease of the game and store that person's id as the huntmaster which will enable them to access the create quest page.
+
+# QUESTS, LOCATIONS AND COMPETITION:
+
+- A quest will have set of location coordinates. The first location coordinates will be displayed to the user if they crack the clue given to them initially. Once that person reaches the location after unlocking the coordinates he will get next clue for the next location.
+- This goes on till all the locations have been identified and claimed.
+- The series of quests/quest created are grouped together and is added to competition where each competition will have a unique name, start date and end date.
+- Once the start date is confirmed and entered a notification is sent to all the users about this.
+
+# SCORING:
+
+- The scoring is given to individuals once they have reached the location. The first individual to reach there will get the maximum points. The next individual to get to the location cannot get the maximum points but will be awarded with a decrement of 10% of the max points and this goes on till the 50% and if there are still players left they will also be warded 50% of the points.
+- The team score is total sum of all the individual player scores. The team who finishes finding all the locations fisrt will be awarded bonus points. Only one will get the bonus and no other team can get it.
+- The No of persons per team will be limited to a maximum of 4 players and a minimum of 1 player thus giving a chance to form more teams and making the competition and the leaderboard interesting.
+
+# GENERAL RULES:
+
+- The user can join any team only upon approval from the team captain. But if they wish to leave approval is not required.
+- Once a team enters a competition with full capacity then no player from that team can leave the team until the competition ends. 
+- If the team is not full then they can add a player till the team reaches its maximum capacity. 
+- The team with maximum score at the end of the competition will win the competition.
+- If there are multiple competitions going on at the same then teams can participate all the competitions that are open if they wish to.
+
+
 ## User Entity
 - Any person with a valid email and wishes to register for the game is defined as user.
 - An entity is a general type for objects relevant to our game. Entities can represent objects that are crucial to gameplay, such as player and enemy characters, or objects that merely exist in the game world without interacting with the player, such as animated decorations in a level.
