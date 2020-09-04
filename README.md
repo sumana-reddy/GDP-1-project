@@ -446,19 +446,22 @@ The user can accept/decline an invite of another player after looking up his/her
 The request should be visible in the notifications to the team/team captain.
 
 # User Story - 5
-As a Data developer ERD is to be developed based on the entities mentioned in the RFP.
+As a user I want to act as the huntmaster and create quest.
 # Acceptance Criteria:
-The given Task for the development of the ERD has been finished and yet to be reviewed. The developed ERD has been updated in the Team repository.
+The user who is hunt master will be able to create quests.
+The huntmaster is assigned to only one person and the userid and other info is stored in the database such that only he can access the page of the create quest.
 
 # User story - 6
-As a developer a set of sample data is to be assumed and check for the desired possible outcome.
+As a User(huntmaster) I want to add multiple locations in a single quest.
 # Acceptance Criteria:
-A set of sample data was taken and were roughly tested to look for the possible outcome and it worked and for which a flow chart is developed and mentioned above.
+The user can add multiple locations in creating a quest page.
+The locations added can be only be accessed after decoding the clue and only one location has to be released and once that person reaches that location then the clue for the next location is to be displayed from the database and so on until all the locations are finished.
 
 # User Story - 7
-As a UI/FrontEnd developer proposed screens for the application are to be craeted and displayed.
+As a User, I want to join a competition.
 # Acceptance Criteria:
-A set of proposed screens were designed using online design tool(Figmaa) and are yet to be reviwed by the client. These are also subject to change after the feedback/review from the client presentation.
+The user can join a competition when the competition starts.
+Once the competition is open, teams which are stored in the database should be able to join the competition. If a new team is formed after the start date of the competition they should still be able to join the competition until and unless the competition is closed.
 
 # User Story - 8
 As a developer the requirements are to be determined for the application to be developed.

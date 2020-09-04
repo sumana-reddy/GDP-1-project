@@ -134,5 +134,33 @@ Sincerely,
 [Sumana Reddy, S538360@nwmissouri.edu]
 
 
+## MODULE -1, Individual 2
+
+# Sumana Reddy Reddybathula, Section-021. 
+
+# Attendance
+- 08/31/2020
+- 09/02/2020
+- 09/04/2020 
+
+# Half day 1
+On the first half day we have had a review on our assignments and we have prepared and made some modifications in our project repository, for our client presentation. Our group members had discussions on what modifications to be done in the repository according to the roles assigned. I have assigned to complete the schedule management and cost estimation so, accordingly I have made some changed required in that. And made other changes like removing some files from repo.
+- [Commit link](https://github.com/sumana-reddy/GDP-1-project/commit/3e6755df6d48ff250b9188126a88c2a7d1a9381b)
+- [Link 2](https://github.com/sumana-reddy/GDP-1-project/commit/30390645240fc333c40f88b0b85eb5351eed094c3). 
+# Half day 2
+Our team has presented our project proposal to the client and coach consultant on Wednesday. At the time of presentation our coach consultant have asked us about "What does the screen looks like when you start your game?" At that time we are not able to show our screen as we are not ready with that in our module-1. Our project is still in initial state. This is where we have realized if we could have done that before our consultant have asked us. This is one of the area where our team could have done better.
+
+And our client mentioned to change the quest of our game. If we have cross checked it before our presentation it would be better.  I have made some changes on schedule management on the day as per our client and coach consultant reviews.
+- [Link1](https://github.com/sumana-reddy/GDP-1-project/commit/65302bd224ed672d23288fe6d0f79c3d8323be0f)
+- [Link2](https://github.com/sumana-reddy/GDP-1-project/commit/11e78476688b26fa508a9626182f227cac6ebbd8)
+- [Link3](https://github.com/sumana-reddy/GDP-1-project/commit/f6fc6baf2a2fea2216aa0bfea98afefef2120eb94)
+
+# Half day 3
+We have had 3 and 4 teams presented their project proposal on this day. But we have also worked on our reviews given by our client and coach consultant. As modified schedule management file needs to be updated in the readme file, I have worked on that and updated schedule management in readme file.
+- [Link1](https://github.com/sumana-reddy/GDP-1-project/commit/3ebe0f8df8a7a0854dadff1589bc7af133db6299)
+- [Link2](https://github.com/sumana-reddy/GDP-1-project/commit/b4e375a1acee4831ce6ef964d528c129ef28b9b6)
+- [Link3](https://github.com/sumana-reddy/GDP-1-project/commit/035ad327926262df08876941097a0d647cf3d689)
+
+
 
 
