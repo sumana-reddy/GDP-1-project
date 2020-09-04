@@ -164,14 +164,14 @@ Any user must login/signup for the game.
 # Acceptance criteria:
 To play the game one must have a valid emailId to signup for the game.
 Upon signing up for the game the user will be prompted to enter a username/nickname of his choice.
-If the entered username/nickname is alraedy taken then he will prompted the same and after this point he will bee identified as a player.
-If the user has already signed up for the game he can login with the username and password.
+If the entered username/nickname is alraedy taken then he will prompted the same and after this point he/she will bee identified as a player.
+If the user has already signed up for the game he/she can login with the username and password.
 The user Id should be persisted in the database along with the user's info when completing the registration.
 
 # User Story - 2
 To play the game one of the scenarios is to create a team.
 # Acceptance Criteria:
-The User can create a team upon signing up and he will prompted to enter a team name.
+The User can create a team upon signing up and he/she will prompted to enter a team name.
 The user who creates a team will act as the captain.
 The user Id of this person and the info the team should be added into the database as the captain and should be retrievable whenever required. 
 
@@ -186,7 +186,7 @@ As a Team Budget/Cost estimation for this application to develop is to be decide
 This is a tricky task but yet an estimate is generated which might be subject to change based on the feedback/review of the client.
 
 # User Story - 5
-As a Data developer ERD is to be developed based on the entities mentioned in the RFP
+As a Data developer ERD is to be developed based on the entities mentioned in the RFP.
 # Acceptance Criteria:
 The given Task for the development of the ERD has been finished and yet to be reviewed. The developed ERD has been updated in the Team repository.
 
