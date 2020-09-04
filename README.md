@@ -489,6 +489,8 @@ The user who is in a team will earn points and all the points by the team member
 The scoring criteria determined in the competition are to be identified and implemented once the person reaches the location and these points should be stored in the database. these should be retrievable whenever the user wishes to look at the team score.
 The position of other teams and their points should be visible to all the teams in the competition.
 
+# User story - 12
+As a User I want to know the limit of the players per team.
 
 ## Sprint - 3( Scheduled  for the GDP-2)
 # UI development finalisation
