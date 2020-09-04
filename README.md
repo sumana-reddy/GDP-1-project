@@ -120,38 +120,38 @@ This is a mobile gaming application which enables the players(users of this game
 |                                                             |                                          |             |                   |                 |                       |   |
 |                           WBS NO.                           |                 TASK NAME                |    STATUS   | DURATION in hours | TOTAL TEAM COST | TOTAL COST PER   WEEK |   |
 |                              1                              |                 Sprint 0                 |             |        200        |     $2,800      |       $70,000         |   |
-|                             1.1                             | –   User stories prioritization          |     Done    |         25        |      $350       |        $8,750         |   |
-|                             1.2                             | –   ER-Diagram development               |     Done    |         25        |      $350       |        $8,750         |   |
-|                             1.3                             | –   Sample data                          |     Done    |         25        |      $350       |        $8,750         |   |
-|                             1.4                             | –   Schedule management plan             | In-progress |         25        |      $350       |        $8,750         |   |
-|                             1.5                             | –   cost estimation                      |     Done    |         20        |      $350       |        $7,000         |   |
-|                             1.6                             | –   proposed UI screens development      | In-progress |         30        |      $350       |        $10,500        |   |
-|                             1.7                             | –   Jira setups                          |     Done    |         24        |      $350       |        $8,400         |   |
-|                             1.8                             | –   User authorization                   |     Done    |         26        |      $350       |        $9,100         |   |
+|                             1.1                             |   User stories prioritization          |     Done    |         25        |      $350       |        $8,750         |   |
+|                             1.2                             |   ER-Diagram development               |     Done    |         25        |      $350       |        $8,750         |   |
+|                             1.3                             |   Sample data                          |     Done    |         25        |      $350       |        $8,750         |   |
+|                             1.4                             |   Schedule management plan             | In-progress |         25        |      $350       |        $8,750         |   |
+|                             1.5                             |   cost estimation                      |     Done    |         20        |      $350       |        $7,000         |   |
+|                             1.6                             |   proposed UI screens development      | In-progress |         30        |      $350       |        $10,500        |   |
+|                             1.7                             |   Jira setups                          |     Done    |         24        |      $350       |        $8,400         |   |
+|                             1.8                             |   User authorization                   |     Done    |         26        |      $350       |        $9,100         |   |
 |                              2                              |                Sprint   1                |             |        200        |     $1,750      |        $70,000        |   |
-|                             2.1                             | –   Sprint 1 planning                    |    To-Do    |         35        |      $350       |        $12,250        |   |
-|                             2.2                             | –   Sprint 1 execution                   |    To-Do    |         35        |      $350       |        $12,250        |   |
-|                             2.3                             | –   Sprint 1 Demo and user authorization |    To-Do    |         35        |      $350       |        $12,250        |   |
-|                             2.4                             | –   Sprint 1 implementation              |    To-Do    |         45        |      $350       |        $15,750        |   |
-|                             2.5                             | –   MVP 1 release                        |    To-Do    |         50        |      $350       |        $17,500        |   |
+|                             2.1                             |   Sprint 1 planning                    |    To-Do    |         35        |      $350       |        $12,250        |   |
+|                             2.2                             |   Sprint 1 execution                   |    To-Do    |         35        |      $350       |        $12,250        |   |
+|                             2.3                             |   Sprint 1 Demo and user authorization |    To-Do    |         35        |      $350       |        $12,250        |   |
+|                             2.4                             |   Sprint 1 implementation              |    To-Do    |         45        |      $350       |        $15,750        |   |
+|                             2.5                             |   MVP 1 release                        |    To-Do    |         50        |      $350       |        $17,500        |   |
 |                              3                              |                Sprint   2                |             |        200        |     $1,750      |        $70,000        |   |
-|                             3.1                             | –   Sprint 2 planning                    |    To-Do    |         35        |      $350       |        $12,250        |   |
-|                             3.2                             | –   Sprint 2 execution                   |    To-Do    |         35        |      $350       |        $12,250        |   |
-|                             3.3                             | –   Sprint 2 Demo and user authorization |    To-Do    |         35        |      $350       |        $12,250        |   |
-|                             3.4                             | –   Sprint 2 implementation              |    To-Do    |         45        |      $350       |        $15,750        |   |
-|                             3.5                             | –   MVP 2 release                        |    To-Do    |         50        |      $350       |        $17,500        |   |
+|                             3.1                             |   Sprint 2 planning                    |    To-Do    |         35        |      $350       |        $12,250        |   |
+|                             3.2                             |   Sprint 2 execution                   |    To-Do    |         35        |      $350       |        $12,250        |   |
+|                             3.3                             |   Sprint 2 Demo and user authorization |    To-Do    |         35        |      $350       |        $12,250        |   |
+|                             3.4                             |   Sprint 2 implementation              |    To-Do    |         45        |      $350       |        $15,750        |   |
+|                             3.5                             |   MVP 2 release                        |    To-Do    |         50        |      $350       |        $17,500        |   |
 |                              4                              |                Sprint   3                |             |        200        |     $1,750      |        $70,000        |   |
-|                             4.1                             | –   Sprint 3 planning                    |    To-Do    |         35        |      $350       |        $12,250        |   |
-|                             4.2                             | –   Sprint 3 execution                   |    To-Do    |         35        |      $350       |        $12,250        |   |
-|                             4.3                             | –   Sprint 3 Demo and user authorization |    To-Do    |         35        |      $350       |        $12,250        |   |
-|                             4.4                             | –   Sprint 3 implementation              |    To-Do    |         45        |      $350       |        $15,750        |   |
-|                             4.5                             | –   MVP 3 release                        |    To-Do    |         50        |      $350       |        $17,500        |   |
+|                             4.1                             |   Sprint 3 planning                    |    To-Do    |         35        |      $350       |        $12,250        |   |
+|                             4.2                             |   Sprint 3 execution                   |    To-Do    |         35        |      $350       |        $12,250        |   |
+|                             4.3                             |   Sprint 3 Demo and user authorization |    To-Do    |         35        |      $350       |        $12,250        |   |
+|                             4.4                             |   Sprint 3 implementation              |    To-Do    |         45        |      $350       |        $15,750        |   |
+|                             4.5                             |   MVP 3 release                        |    To-Do    |         50        |      $350       |        $17,500        |   |
 |                              4                              |            Sprint   4 (GDP-2)            |             |        200        |     $1,750      |        $70,000        |   |
-|                             4.1                             | –   Sprint 4 planning                    |    To-Do    |         35        |      $350       |        $12,250        |   |
-|                             4.2                             | –   Sprint 4 execution                   |    To-Do    |         35        |      $350       |        $12,250        |   |
-|                             4.3                             | –   Sprint 4 Demo and user authorization |    To-Do    |         35        |      $350       |        $12,250        |   |
-|                             4.4                             | –   Sprint 4 implementation              |    To-Do    |         45        |      $350       |        $15,750        |   |
-|                             4.5                             | –   MVP 4 release                        |    To-Do    |         50        |      $350       |        $17,500        |   |
+|                             4.1                             |   Sprint 4 planning                    |    To-Do    |         35        |      $350       |        $12,250        |   |
+|                             4.2                             |   Sprint 4 execution                   |    To-Do    |         35        |      $350       |        $12,250        |   |
+|                             4.3                             |   Sprint 4 Demo and user authorization |    To-Do    |         35        |      $350       |        $12,250        |   |
+|                             4.4                             |   Sprint 4 implementation              |    To-Do    |         45        |      $350       |        $15,750        |   |
+|                             4.5                             |   MVP 4 release                        |    To-Do    |         50        |      $350       |        $17,500        |   |
 |                                                             |                                          |             |                   |                 |                       |   |
 
 
