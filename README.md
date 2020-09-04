@@ -93,45 +93,271 @@ This is a mobile gaming application which enables the players(users of this game
 <img src="Images\Updated_flowchart.png">
 
 ## Schedule Management
-| Work   Breakdown Structure Categories 	| Start Date 	| End Date 	| Estimated Hours   per person 	|   	|   	|   	|   	|   	| Total Est.Hours 	|
-|:-:	|-	|-	|-	|-	|-	|-	|-	|-	|-	|
-|   	|   	|   	| Developer 1 	| Developer 2 	| Developer 3 	| Developer 4 	| Developer 5 	| Developer 6 	|   	|
-| Initiating 	| 8/22/2020 	| 8/23/2020 	| 2 	| 1.5 	| 1.5 	| 2 	| 1 	| 2 	| 10 	|
-| Planning 	| 8/23/2020 	| 8/24/2020 	| 1 	| 1.5 	| 1.5 	| 2 	| 2 	| 1.5 	| 9.5 	|
-| Designing 	| 8/25/2020 	| 11/31/2020 	| 1.5 	| 3 	| 2 	| 2.5 	| 1.5 	| 1 	| 11.5 	|
-|     UI Design 	| 8/25/2020 	| 9/15/2020 	|   	| 6 	|   	|   	|   	|   	| 6 	|
-|     Synthesis of Design 	| 9/16/2020 	| 10/15/2020 	| 1.5 	| 2 	| 2.5 	|   	| 1.5 	| 2 	| 9.5 	|
-|     Implementation Iteration 	| 10/16/2020 	| 11/4/2020 	|   	|   	| 5.5 	|   	|   	|   	| 5.5 	|
-|     Early release and contract finalization 	| 11/5/2020 	| 11/31/2020 	|   	|   	|   	|   	| 7 	|   	| 7 	|
-| Implementation 	| 1/20/2021 	| 3/30/2021 	| 1 	| 2 	| 3 	| 2 	| 1.5 	| 1 	| 10.5 	|
-|     Application Development 	| 1/20/2021 	| 2/5/2021 	| 2 	| 1.5 	| 2.5 	| 1.5 	| 2 	| 1.5 	| 11 	|
-|     PWA Implementation 	| 2/6/2021 	| 2/28/2021 	| 5 	|   	|   	|   	|   	|   	| 5 	|
-|     Android/IOS implementation 	| 3/1/2021 	| 3/30/2021 	|   	|   	|   	| 6 	|   	|   	| 6 	|
-| Monitoring and   controlling 	| 4/3/2021 	| 4/17/2021 	| 1 	| 2.5 	| 1.5 	| 4 	| 1.5 	| 1.5 	| 12 	|
-| Closing 	| 4/18/2021 	| 5/1/2021 	|   	|   	|   	|   	|   	| 6.5 	| 6.5 	|
-| Total 	|   	|   	| 15 	| 20 	| 20 	| 20 	| 18 	| 17 	| 110 	|
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">WBS NO.</th>
+    <th class="tg-0lax">TASK NAME</th>
+    <th class="tg-0lax">STATUS</th>
+    <th class="tg-0lax">DURATION in hrs</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><b>1</b></td>
+    <td class="tg-0lax"><b>Sprint 0<b></td>
+    <td class="tg-0lax"><b>-</b></td>
+    <td class="tg-0lax"><b>200</b></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">1.1</td>
+    <td class="tg-0lax">User stories prioritization</td>
+    <td class="tg-0lax">Done</td>
+    <td class="tg-0lax">25</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">1.2</td>
+    <td class="tg-0lax">ER-Diagram development</td>
+    <td class="tg-0lax">Done</td>
+    <td class="tg-0lax">25</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">1.3</td>
+    <td class="tg-0lax">Sample data</td>
+    <td class="tg-0lax">Done</td>
+    <td class="tg-0lax">25</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">1.4</td>
+    <td class="tg-0lax">Schedule management plan</td>
+    <td class="tg-0lax">In-progress</td>
+    <td class="tg-0lax">25</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">1.5</td>
+    <td class="tg-0lax">Cost estimation</td>
+    <td class="tg-0lax">Done</td>
+    <td class="tg-0lax">20</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">1.6</td>
+    <td class="tg-0lax">Proposed UI screens development</td>
+    <td class="tg-0lax">In-progress</td>
+    <td class="tg-0lax">30</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">1.7</td>
+    <td class="tg-0lax">Jira setups</td>
+    <td class="tg-0lax">Done</td>
+    <td class="tg-0lax">24</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">1.8</td>
+    <td class="tg-0lax">User authorization</td>
+    <td class="tg-0lax">Done</td>
+    <td class="tg-0lax">26</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><b>2</b></td>
+    <td class="tg-0lax"><b>Sprint 1</b></td>
+    <td class="tg-0lax"><b>-</b></td>
+    <td class="tg-0lax"><b>200</b></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2.1</td>
+    <td class="tg-0lax">Sprint 1 planning</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">35</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2.2</td>
+    <td class="tg-0lax">Sprint 1 execution</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">35</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2.3</td>
+    <td class="tg-0lax">Sprint 1 Demo and User authorization</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">35</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2.4</td>
+    <td class="tg-0lax">Sprint 1 implementation</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">45</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2.5</td>
+    <td class="tg-0lax">MVP 1 release</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">50</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><b>3</b></td>
+    <td class="tg-0lax"><b>Sprint 2</b></td>
+    <td class="tg-0lax"><b>-</b></td>
+    <td class="tg-0lax"><b>200</b></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.1</td>
+    <td class="tg-0lax">Sprint 2 planning</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">35</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.2</td>
+    <td class="tg-0lax">Sprint 2 execution</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">35</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.3</td>
+    <td class="tg-0lax">Sprint 2 Demo and User authorization</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">35</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.4</td>
+    <td class="tg-0lax">Sprint 2 implementation</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">45</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.5</td>
+    <td class="tg-0lax">MVP 2 release</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">50</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><b>4</b></td>
+    <td class="tg-0lax"><b>Sprint 3</b></td>
+    <td class="tg-0lax"><b>-</b></td>
+    <td class="tg-0lax"><b>200</b></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">4.1</td>
+    <td class="tg-0lax">Sprint 3 planning</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">35</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">4.2</td>
+    <td class="tg-0lax">Sprint 3 execution</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">35</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">4.3</td>
+    <td class="tg-0lax">Sprint 3 Demo and User authorization</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">35</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">4.4</td>
+    <td class="tg-0lax">Sprint 3 implementation</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">45</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">4.5</td>
+    <td class="tg-0lax">MVP 3 release</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">50</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"><b>5</b></td>
+    <td class="tg-0lax"><b>Sprint 4 (GDP 2) all sprints</b></td>
+    <td class="tg-0lax"><b>-</b></td>
+    <td class="tg-0lax"><b>600</b></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">5.1</td>
+    <td class="tg-0lax">Sprint 4 planning</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">100</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">5.2</td>
+    <td class="tg-0lax">Sprint 4 execution</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">140</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">5.3</td>
+    <td class="tg-0lax">Sprint 4 Demo and User authorization</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">140</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">5.4</td>
+    <td class="tg-0lax">Sprint 4 implementation</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">115</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">5.5</td>
+    <td class="tg-0lax">MVP 4 release</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">105</td>
+  </tr>
+
+</tbody>
+</table>
+
 
 ## Cost Estimate
 
-| Work   Breakdown Structure Categories 	| Total Team Cost 	| No. of Hours   per week 	| Total cost per   week 	| Toatal Cost For Three Sprints 	|
-|:-:	|-	|-	|-	|-	|
-| Initiating 	| $350  	| 10 	| $3,500  	| $10,500  	|
-| Planning 	| $350  	| 9.5 	| $3,325  	| $9,975  	|
-| Designing 	| $350  	| 11.5 	| $4,025  	| $12,075  	|
-|     UI Design 	| $350  	| 6 	| $2,100  	| $6,300  	|
-|     Synthesis of Design 	| $350  	| 9.5 	| $3,325  	| $9,975  	|
-|     Implementation Iteration 	| $350  	| 5.5 	| $1,925  	| $5,775  	|
-|     Early release and contract finalization 	| $350  	| 7 	| $2,450  	| $7,350  	|
-| Implementation 	| $350  	| 10.5 	| $3,675  	| $11,025  	|
-|     Application Development 	| $350  	| 11 	| $3,850  	| $11,550  	|
-|     PWA Implementation 	| $350  	| 5 	| $1,750  	| $5,250  	|
-|     Android/IOS implementation 	| $350  	| 6 	| $2,100  	| $6,300  	|
-| Monitoring and   controlling 	| $350  	| 12 	| $4,200  	| $12,600  	|
-| Closing 	| $350  	| 6.5 	| $2,275  	| $6,825  	|
-| Total 	|   	| 110 	| $38,500  	| $115,500  	|
+|                                    PROJECT   COST ESTIMATE  |                                          |             |                   |                 |                       |   |
+|-------------------------------------------------------------|------------------------------------------|-------------|-------------------|-----------------|-----------------------|---|
+|                                                             | PROJECT TITLE                            |             |                   |                 |                       |   |
+|                                                             |       Northwest Gaming Application       |             |                   |                 |                       |   |
+|                                                             |                                          |             |                   |                 |                       |   |
+|                           WBS NO.                           |                 TASK NAME                |    STATUS   | DURATION in hours | TOTAL TEAM COST | TOTAL COST PER   WEEK |   |
+|                              1                              |                 Sprint 0                 |             |        200        |     $2,800      |       $70,000         |   |
+|                             1.1                             |   User stories prioritization          |     Done    |         25        |      $350       |        $8,750         |   |
+|                             1.2                             |   ER-Diagram development               |     Done    |         25        |      $350       |        $8,750         |   |
+|                             1.3                             |   Sample data                          |     Done    |         25        |      $350       |        $8,750         |   |
+|                             1.4                             |   Schedule management plan             | In-progress |         25        |      $350       |        $8,750         |   |
+|                             1.5                             |   cost estimation                      |     Done    |         20        |      $350       |        $7,000         |   |
+|                             1.6                             |   proposed UI screens development      | In-progress |         30        |      $350       |        $10,500        |   |
+|                             1.7                             |   Jira setups                          |     Done    |         24        |      $350       |        $8,400         |   |
+|                             1.8                             |   User authorization                   |     Done    |         26        |      $350       |        $9,100         |   |
+|                              2                              |                Sprint   1                |             |        200        |     $1,750      |        $70,000        |   |
+|                             2.1                             |   Sprint 1 planning                    |    To-Do    |         35        |      $350       |        $12,250        |   |
+|                             2.2                             |   Sprint 1 execution                   |    To-Do    |         35        |      $350       |        $12,250        |   |
+|                             2.3                             |   Sprint 1 Demo and user authorization |    To-Do    |         35        |      $350       |        $12,250        |   |
+|                             2.4                             |   Sprint 1 implementation              |    To-Do    |         45        |      $350       |        $15,750        |   |
+|                             2.5                             |   MVP 1 release                        |    To-Do    |         50        |      $350       |        $17,500        |   |
+|                              3                              |                Sprint   2                |             |        200        |     $1,750      |        $70,000        |   |
+|                             3.1                             |   Sprint 2 planning                    |    To-Do    |         35        |      $350       |        $12,250        |   |
+|                             3.2                             |   Sprint 2 execution                   |    To-Do    |         35        |      $350       |        $12,250        |   |
+|                             3.3                             |   Sprint 2 Demo and user authorization |    To-Do    |         35        |      $350       |        $12,250        |   |
+|                             3.4                             |   Sprint 2 implementation              |    To-Do    |         45        |      $350       |        $15,750        |   |
+|                             3.5                             |   MVP 2 release                        |    To-Do    |         50        |      $350       |        $17,500        |   |
+|                              4                              |                Sprint   3                |             |        200        |     $1,750      |        $70,000        |   |
+|                             4.1                             |   Sprint 3 planning                    |    To-Do    |         35        |      $350       |        $12,250        |   |
+|                             4.2                             |   Sprint 3 execution                   |    To-Do    |         35        |      $350       |        $12,250        |   |
+|                             4.3                             |   Sprint 3 Demo and user authorization |    To-Do    |         35        |      $350       |        $12,250        |   |
+|                             4.4                             |   Sprint 3 implementation              |    To-Do    |         45        |      $350       |        $15,750        |   |
+|                             4.5                             |   MVP 3 release                        |    To-Do    |         50        |      $350       |        $17,500        |   |
+|                              4                              |            Sprint   4 (GDP-2)            |             |        200        |     $1,750      |        $70,000        |   |
+|                             4.1                             |   Sprint 4 planning                    |    To-Do    |         35        |      $350       |        $12,250        |   |
+|                             4.2                             |   Sprint 4 execution                   |    To-Do    |         35        |      $350       |        $12,250        |   |
+|                             4.3                             |   Sprint 4 Demo and user authorization |    To-Do    |         35        |      $350       |        $12,250        |   |
+|                             4.4                             |   Sprint 4 implementation              |    To-Do    |         45        |      $350       |        $15,750        |   |
+|                             4.5                             |   MVP 4 release                        |    To-Do    |         50        |      $350       |        $17,500        |   |
+|                                                             |                                          |             |                   |                 |                       |   |
+
+
 
 - The developers required for this application is 6.
 - The estimated total cost for this application is $115,500 as mentioned in the cost estimation table.
+
+## Updated cost estimate as per client reviews 
+
+
 
 ## Risks and Challenges:
 - The app is based on the locations and to find the location accurately GPS is to be used which could a challenging and tricky task.
