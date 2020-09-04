@@ -97,7 +97,7 @@ This is a mobile gaming application which enables the players(users of this game
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0lax">WBS NO.</th>
+    <th class="tg-0lax"><b>WBS NO.</b></th>
     <th class="tg-0lax">TASK NAME</th>
     <th class="tg-0lax">STATUS</th>
     <th class="tg-0lax">DURATION in hrs</th>
