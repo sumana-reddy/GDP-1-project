@@ -160,20 +160,20 @@ This is a mobile gaming application which enables the players(users of this game
 
 ## Sprint - 1
 # User Story - 1
-Any user must login/signup for the game.
+As a User I want to login/Signup for the game.
 # Acceptance criteria:
-To play the game one must have a valid emailId to signup for the game.
+The User should have a valid email Id to Signup for the game.
 Upon signing up for the game the user will be prompted to enter a username/nickname of his choice.
-If the entered username/nickname is alraedy taken then he will prompted the same and after this point he/she will bee identified as a player.
-If the user has already signed up for the game he/she can login with the username and password.
+If the entered username/nickname is alraedy taken then he will prompted the same and after this point he will bee identified as a player.
+If the user has already signed up for the game he can login with the username and password.
 The user Id should be persisted in the database along with the user's info when completing the registration.
 
 # User Story - 2
-To play the game one of the scenarios is to create a team.
+As a user I want to create a team.
 # Acceptance Criteria:
-The User can create a team upon signing up and he/she will prompted to enter a team name.
-The user who creates a team will act as the captain.
-The user Id of this person and the info the team should be added into the database as the captain and should be retrievable whenever required. 
+The User can create a team upon signing up and he will prompted to enter a team name.
+The user who creates a team will serve as the captain.
+The user Id of this person  and the info the team should be added into the database as the captain and should be retrievable whenever required. 
 
 # User Story - 3
 As a Team Schedule for this application is to be charted down.
