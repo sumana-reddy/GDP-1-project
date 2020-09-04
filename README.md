@@ -448,7 +448,8 @@ The request should be visible in the notifications to the team/team captain.
 # User Story - 5
 As a user I want to act as the huntmaster and create quest.
 # Acceptance Criteria:
-The given Task for the development of the ERD has been finished and yet to be reviewed. The developed ERD has been updated in the Team repository.
+The user who is hunt master will be able to create quests.
+The huntmaster is assigned to only one person and the userid and other info is stored in the database such that only he can access the page of the create quest.
 
 # User story - 6
 As a developer a set of sample data is to be assumed and check for the desired possible outcome.
