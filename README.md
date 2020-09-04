@@ -162,7 +162,12 @@ This is a mobile gaming application which enables the players(users of this game
 # User Story - 1
 Any user must login/signup for the game.
 # Acceptance criteria:
-Being a UI developer for this application I take up this task and make sure it works out for every valid email.
+To play the game one must have a valid emailId to signup for the game.
+Upon signing up for the game the user will be prompted to enter a username/nickname of his choice.
+If the entered username/nickname is alraedy taken then he will prompted the same and after this point he will bee identified as a player.
+If the user has already signed up for the game he can login with the username and password.
+The user Id should be persisted in the database along with the user's info when completing the registration.
+
 
 # User Story - 2
 As a Team a proposal document is to be created for this Northwest Gaming Application
