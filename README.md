@@ -93,23 +93,219 @@ This is a mobile gaming application which enables the players(users of this game
 <img src="Images\Updated_flowchart.png">
 
 ## Schedule Management
-| Work   Breakdown Structure Categories 	| Start Date 	| End Date 	| Estimated Hours   per person 	|   	|   	|   	|   	|   	| Total Est.Hours 	|
-|:-:	|-	|-	|-	|-	|-	|-	|-	|-	|-	|
-|   	|   	|   	| Developer 1 	| Developer 2 	| Developer 3 	| Developer 4 	| Developer 5 	| Developer 6 	|   	|
-| Initiating 	| 8/22/2020 	| 8/23/2020 	| 2 	| 1.5 	| 1.5 	| 2 	| 1 	| 2 	| 10 	|
-| Planning 	| 8/23/2020 	| 8/24/2020 	| 1 	| 1.5 	| 1.5 	| 2 	| 2 	| 1.5 	| 9.5 	|
-| Designing 	| 8/25/2020 	| 11/31/2020 	| 1.5 	| 3 	| 2 	| 2.5 	| 1.5 	| 1 	| 11.5 	|
-|     UI Design 	| 8/25/2020 	| 9/15/2020 	|   	| 6 	|   	|   	|   	|   	| 6 	|
-|     Synthesis of Design 	| 9/16/2020 	| 10/15/2020 	| 1.5 	| 2 	| 2.5 	|   	| 1.5 	| 2 	| 9.5 	|
-|     Implementation Iteration 	| 10/16/2020 	| 11/4/2020 	|   	|   	| 5.5 	|   	|   	|   	| 5.5 	|
-|     Early release and contract finalization 	| 11/5/2020 	| 11/31/2020 	|   	|   	|   	|   	| 7 	|   	| 7 	|
-| Implementation 	| 1/20/2021 	| 3/30/2021 	| 1 	| 2 	| 3 	| 2 	| 1.5 	| 1 	| 10.5 	|
-|     Application Development 	| 1/20/2021 	| 2/5/2021 	| 2 	| 1.5 	| 2.5 	| 1.5 	| 2 	| 1.5 	| 11 	|
-|     PWA Implementation 	| 2/6/2021 	| 2/28/2021 	| 5 	|   	|   	|   	|   	|   	| 5 	|
-|     Android/IOS implementation 	| 3/1/2021 	| 3/30/2021 	|   	|   	|   	| 6 	|   	|   	| 6 	|
-| Monitoring and   controlling 	| 4/3/2021 	| 4/17/2021 	| 1 	| 2.5 	| 1.5 	| 4 	| 1.5 	| 1.5 	| 12 	|
-| Closing 	| 4/18/2021 	| 5/1/2021 	|   	|   	|   	|   	|   	| 6.5 	| 6.5 	|
-| Total 	|   	|   	| 15 	| 20 	| 20 	| 20 	| 18 	| 17 	| 110 	|
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">WBS NO.</th>
+    <th class="tg-0lax">TASK NAME</th>
+    <th class="tg-0lax">STATUS</th>
+    <th class="tg-0lax">DURATION in hrs</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">1</td>
+    <td class="tg-0lax">Sprint 0</td>
+    <td class="tg-0lax">-</td>
+    <td class="tg-0lax">200</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">1.1</td>
+    <td class="tg-0lax">User stories prioritization</td>
+    <td class="tg-0lax">Done</td>
+    <td class="tg-0lax">25</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">1.2</td>
+    <td class="tg-0lax">ER-Diagram development</td>
+    <td class="tg-0lax">Done</td>
+    <td class="tg-0lax">25</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">1.3</td>
+    <td class="tg-0lax">Sample data</td>
+    <td class="tg-0lax">Done</td>
+    <td class="tg-0lax">25</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">1.4</td>
+    <td class="tg-0lax">Schedule management plan</td>
+    <td class="tg-0lax">In-progress</td>
+    <td class="tg-0lax">25</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">1.5</td>
+    <td class="tg-0lax">Cost estimation</td>
+    <td class="tg-0lax">Done</td>
+    <td class="tg-0lax">20</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">1.6</td>
+    <td class="tg-0lax">Proposed UI screens development</td>
+    <td class="tg-0lax">In-progress</td>
+    <td class="tg-0lax">30</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">1.7</td>
+    <td class="tg-0lax">Jira setups</td>
+    <td class="tg-0lax">Done</td>
+    <td class="tg-0lax">24</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">1.8</td>
+    <td class="tg-0lax">User authorization</td>
+    <td class="tg-0lax">Done</td>
+    <td class="tg-0lax">26</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2</td>
+    <td class="tg-0lax">Sprint 2</td>
+    <td class="tg-0lax">-</td>
+    <td class="tg-0lax">200</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2.1</td>
+    <td class="tg-0lax">Sprint 1 planning</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">35</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2.2</td>
+    <td class="tg-0lax">Sprint 1 execution</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">35</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2.3</td>
+    <td class="tg-0lax">Sprint 1 Demo and User authorization</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">35</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2.4</td>
+    <td class="tg-0lax">Sprint 1 implementation</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">45</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2.5</td>
+    <td class="tg-0lax">MVP 1 release</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">50</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3</td>
+    <td class="tg-0lax">Sprint 2</td>
+    <td class="tg-0lax">-</td>
+    <td class="tg-0lax">200</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.1</td>
+    <td class="tg-0lax">Sprint 2 planning</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">35</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.2</td>
+    <td class="tg-0lax">Sprint 2 execution</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">35</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.3</td>
+    <td class="tg-0lax">Sprint 2 Demo and User authorization</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">35</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.4</td>
+    <td class="tg-0lax">Sprint 2 implementation</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">45</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">3.5</td>
+    <td class="tg-0lax">MVP 2 release</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">50</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">4</td>
+    <td class="tg-0lax">Sprint 3</td>
+    <td class="tg-0lax">-</td>
+    <td class="tg-0lax">200</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">4.1</td>
+    <td class="tg-0lax">Sprint 3 planning</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">35</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">4.2</td>
+    <td class="tg-0lax">Sprint 3 execution</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">35</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">4.3</td>
+    <td class="tg-0lax">Sprint 3 Demo and User authorization</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">35</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">4.4</td>
+    <td class="tg-0lax">Sprint 3 implementation</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">45</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">4.5</td>
+    <td class="tg-0lax">MVP 3 release</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">50</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">5</td>
+    <td class="tg-0lax">Sprint 4</td>
+    <td class="tg-0lax">-</td>
+    <td class="tg-0lax">600</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">5.1</td>
+    <td class="tg-0lax">Sprint 4 planning</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">100</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">5.2</td>
+    <td class="tg-0lax">Sprint 4 execution</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">140</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">5.3</td>
+    <td class="tg-0lax">Sprint 4 Demo and User authorization</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">140</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">5.4</td>
+    <td class="tg-0lax">Sprint 4 implementation</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">115</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">5.5</td>
+    <td class="tg-0lax">MVP 4 release</td>
+    <td class="tg-0lax">To-Do</td>
+    <td class="tg-0lax">105</td>
+  </tr>
+
+</tbody>
+</table>
+
 
 ## Cost Estimate
 
