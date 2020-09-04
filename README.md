@@ -452,7 +452,7 @@ The user who is hunt master will be able to create quests.
 The huntmaster is assigned to only one person and the userid and other info is stored in the database such that only he can access the page of the create quest.
 
 # User story - 6
-As a developer a set of sample data is to be assumed and check for the desired possible outcome.
+As a User(huntmaster) I want to add multiple locations in a single quest.
 # Acceptance Criteria:
 A set of sample data was taken and were roughly tested to look for the possible outcome and it worked and for which a flow chart is developed and mentioned above.
 
