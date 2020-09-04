@@ -186,7 +186,8 @@ The user should be able to access all the teams available for him to join.
 # User Story - 4
 As a User(captain) I want to accept/decline an invite of a player.
 # Acceptance Criteria:
-This is a tricky task but yet an estimate is generated which might be subject to change based on the feedback/review of the client.
+The user can accept/decline an invite of another player after looking up his invitation.
+The request should be visible in the notifications to the team/team captain.
 
 # User Story - 5
 As a Data developer ERD is to be developed based on the entities mentioned in the RFP.
