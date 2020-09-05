@@ -188,52 +188,71 @@ This is a mobile gaming application which enables the players(users of this game
 
 
 ## Updated Cost Estimate 
-
-|                                    PROJECT   COST ESTIMATE  |                                        |             |                   |                 |                       |   |
-|-------------------------------------------------------------|----------------------------------------|-------------|-------------------|-----------------|-----------------------|---|
-|                                                             | PROJECT TITLE                          |             |                   |                 |                       |   |
-|                                                             |       Northwest Gaming Application     |             |                   |                 |                       |   |
-|                                                             |                                        |             |                   |                 |                       |   |
-|                           WBS NO.                           |                 TASK NAME              |    STATUS   | DURATION in hours | TOTAL TEAM COST | TOTAL COST PER   WEEK |   |
-|                              1                              |                 Sprint 0               |             |        200        |                 |                
-|                             1.1                             |   User stories prioritization          |     Done    |         25        |      $350       |        $8,750         |   |
-|                             1.2                             |   ER-Diagram development               |     Done    |         25        |      $350       |        $8,750         |   |
-|                             1.3                             |   Sample data                          |     Done    |         25        |      $350       |        $8,750         |   |
-|                             1.4                             |   Schedule management plan             | In-progress |         25        |      $350       |        $8,750         |   |
-|                             1.5                             |   cost estimation                      |     Done    |         20        |      $350       |        $7,000         |   |
-|                             1.6                             |   proposed UI screens development      | In-progress |         30        |      $350       |        $10,500        |   |
-|                             1.7                             |   Jira setups                          |     Done    |         24        |      $350       |        $8,400         |   |
-|                             1.8                             |   User authorization                   |     Done    |         26        |      $350       |        $9,100         |   |
-|                              2                              |                Sprint   1              |             |        200        |                 |              
-|                             2.1                             |   Sprint 1 planning                    |    To-Do    |         35        |      $350       |        $12,250        |   |
-|                             2.2                             |   Sprint 1 execution                   |    To-Do    |         35        |      $350       |        $12,250        |   |
-|                             2.3                             |   Sprint 1 Demo and user authorization |    To-Do    |         35        |      $350       |        $12,250        |   |
-|                             2.4                             |   Sprint 1 implementation              |    To-Do    |         45        |      $350       |        $15,750        |   |
-|                             2.5                             |   MVP 1 release                        |    To-Do    |         50        |      $350       |        $17,500        |   |
-|                              3                              |                Sprint   2              |             |        200        |                 |              
-|                             3.1                             |   Sprint 2 planning                    |    To-Do    |         35        |      $350       |        $12,250        |   |
-|                             3.2                             |   Sprint 2 execution                   |    To-Do    |         35        |      $350       |        $12,250        |   |
-|                             3.3                             |   Sprint 2 Demo and user authorization |    To-Do    |         35        |      $350       |        $12,250        |   |
-|                             3.4                             |   Sprint 2 implementation              |    To-Do    |         45        |      $350       |        $15,750        |   |
-|                             3.5                             |   MVP 2 release                        |    To-Do    |         50        |      $350       |        $17,500        |   |
-|                              4                              |                Sprint   3              |             |        200        |                 |               
-|                             4.1                             |   Sprint 3 planning                    |    To-Do    |         35        |      $350       |        $12,250        |   |
-|                             4.2                             |   Sprint 3 execution                   |    To-Do    |         35        |      $350       |        $12,250        |   |
-|                             4.3                             |   Sprint 3 Demo and user authorization |    To-Do    |         35        |      $350       |        $12,250        |   |
-|                             4.4                             |   Sprint 3 implementation              |    To-Do    |         45        |      $350       |        $15,750        |   |
-|                             4.5                             |   MVP 3 release                        |    To-Do    |         50        |      $350       |        $17,500        |   |
-|                              4                              |            Sprint   4 (GDP-2)          |             |        200        |                 |               
-|                             4.1                             |   Sprint 4 planning                    |    To-Do    |         35        |      $350       |        $12,250        |   |
-|                             4.2                             |   Sprint 4 execution                   |    To-Do    |         35        |      $350       |        $12,250        |   |
-|                             4.3                             |   Sprint 4 Demo and user authorization |    To-Do    |         35        |      $350       |        $12,250        |   |
-|                             4.4                             |   Sprint 4 implementation              |    To-Do    |         45        |      $350       |        $15,750        |   |
-|                             4.5                             |   MVP 4 release                        |    To-Do    |         50        |      $350       |        $17,500        |   |
-|                                                             |     TOTAL PROJECT COST                 |             |                   |                 |        $350,000        |
+|  	|  	|  	|  	|   	|  	|
+|-	|-	|-	|-	|-	|-	|
+|   	| PROJECT COST ESTIMATE 	|   	|   	|   	|  	|
+|   	| Northwest Gaming   Application  	|   	|   	|  	|  	|
+|   	|   	|   	|   	|  	|  	|
+| WBS NO. 	| TASK NAME 	| STATUS 	| DURATION  	| TOTAL TEAM COST 	| TOTAL COST FOR   THE TEAM 	|
+| 1 	| Sprint   0 	|   	| 180 	|   	|   	|
+| 1.1 	| – User stories   prioritization 	| Done 	| 20 	| $350  	| $7,000  	|
+| 1.2 	| – ER-Diagram   development 	| Done 	| 25 	| $350  	| $8,750  	|
+| 1.3 	| – Sample data 	| Done 	| 20 	| $350  	| $7,000  	|
+| 1.4 	| – Schedule   management plan 	| In-progress 	| 25 	| $350  	| $8,750  	|
+| 1.5 	| – Cost   estimation 	| Done 	| 20 	| $350  	| $7,000  	|
+| 1.6 	| – Proposed UI   screens development 	| In-progress 	| 30 	| $350  	| $10,500  	|
+| 1.7 	| – Jira setups 	| Done 	| 20 	| $350  	| $7,000  	|
+| 1.8 	| – User   authorization 	| Done 	| 20 	| $350  	| $7,000  	|
+| 2 	| Sprint 1 	|   	| 180 	|   	|   	|
+| 2.1 	| Planning the   User stories 	| To-Do 	| 50 	| $350  	| $17,500  	|
+| 2.1.1 	| As a User I   want to login/Signup for the game. 	| To-Do 	|   	|   	|   	|
+| 2.1.2 	| As a user I   want to create a team. 	| To-Do 	|   	|   	|   	|
+| 2.1.3 	| As a User I   want to Join a Team. 	| To-Do 	|   	|   	|   	|
+| 2.1.4 	| As a   User(captain) I want to accept/decline an invite of a player. 	| To-Do 	|   	|   	|   	|
+| 2.1.5 	| As a user I   want to act as the huntmaster and create quest. 	| To-Do 	|   	|   	|   	|
+| 2.1.6 	| As a   User(huntmaster) I want to add multiple locations in a single quest. 	| To-Do 	|   	|   	|   	|
+| 2.1.7 	| As a User I   want to join a competition. 	| To-Do 	|   	|   	|   	|
+| 2.2 	| – Sprint 1   Implementation of all the user stories planned 	| To-Do 	| 100 	| $350  	| $35,000  	|
+| 2.3 	| – Sprint 1 Demo   and client Acceptance 	| To-Do 	| 30 	| $350  	| $10,500  	|
+| 2.5 	| – MVP 1 release 	| To-Do 	|   	|   	|   	|
+| 3 	| Sprint 2  	|   	| 200 	|   	|   	|
+| 3.1 	| – Sprint 2   Planning Of  User stories 	| To-Do 	| 50 	| $350  	| $17,500  	|
+| 3.1.1 	| As a User I   want to join a competition when it starts. 	| To-Do 	|   	|   	|   	|
+| 3.1.2 	| As a User I   want to know about the scoring details of the competition. 	| To-Do 	|   	|   	|   	|
+| 3.1.3 	| As a User I   want to look at the points scored by the team. 	| To-Do 	|   	|   	|   	|
+| 3.1.4 	| As a user I   want to know how the team points are calculated. 	| To-Do 	|   	|   	|   	|
+| 3.1.5 	| As User I want   to know the limit of the players per team. 	| To-Do 	|   	|   	|   	|
+| 3.1.6 	| As a user I   want to leave the team and join other team. 	| To-Do 	|   	|   	|   	|
+| 3.1.7 	| As a User I   want to change my nick name. 	| To-Do 	|   	|   	|   	|
+| 3.1.8 	| As a User  I want to create multiple accounts under   one user id. 	| To-Do 	|   	|   	|   	|
+| 3.1.9 	| As a user I   want to know how many more locations are left to be found out. 	| To-Do 	|   	|   	|   	|
+| 3.1.10 	| As a user I   want hints if I am unable to crack the clue. 	| To-Do 	|   	|   	|   	|
+| 3.4 	| – Sprint 2   Implementation of all the User stories 	| To-Do 	| 120 	| $350  	| $42,000  	|
+| 3.3 	| – Sprint 2   Demo  	| To-Do 	| 30 	| $350  	| $10,500  	|
+| 3.5 	| – MVP 2 release 	| To-Do 	|   	|   	|  	|
+| 4 	| Sprint 3 	| To-Do 	| 180 	|   	|  	|
+| 4.1 	| – Sprint 3   Planning of user stories 	| To-Do 	| 50 	| $350  	| $17,500  	|
+| 4.1.1 	| As a user I   want to know if there are any points reduced if I use the hints field. 	| To-Do 	|   	|   	|  	|
+| 4.1.2 	| As a User I   want assistance in finding a location. 	| To-Do 	|   	|   	|  	|
+| 4.1.3 	| As a user I   want to hear instructions while going to that location. 	| To-Do 	|   	|   	|  	|
+| 4.1.4 	| As a user I   wish to mute the instructions. 	| To-Do 	|   	|   	|  	|
+| 4.1.5 	| As a user I   wish to mute the instructions. 	| To-Do 	|   	|   	|  	|
+| 4.1.6 	| As a user I   want to look at all the settings available for the game. 	| To-Do 	|   	|   	|  	|
+| 4.1.7 	| As a User I   want to  know if I can create a quest   for the competition. 	| To-Do 	|   	|   	|  	|
+| 4.2 	| – Sprint 3   Implementation of all the User stories 	| To-Do 	| 100 	| $350  	| $35,000  	|
+| 4.3 	| – Sprint 3 Demo   and Client Acceptance 	| To-Do 	| 30 	| $350  	| $10,500  	|
+| 4.5 	| – MVP 3 release 	| To-Do 	|   	|   	|  	|
+| 5 	| Sprint 4   (GDP-2) all sprints 	|   	| 540 	| $350  	| $189,000  	|
+| 5.1 	| – Sprint 4   Planning of User stories 	| To-Do 	|   	|   	|  	|
+| 5.2 	| – Iteration of   all the tasks 	| To-Do 	|   	|   	|  	|
+| 5.3 	| – Testing the   application and client approval 	| To-Do 	|   	|   	|  	|
+| 5.5 	| – MVP 4 release 	| To-Do 	|   	|   	|  	|
+|   	| TOTAL 	|   	|   	|   	| $448,000  	|
 
 
 - The team cost per hour is $350.
 - The developers required for this application is 6.
-- The estimated total cost for this application is $350,000 as mentioned in the cost estimation table.
+- The estimated total cost for this application is $448,000 as mentioned in the cost estimation table.
 
 
 
@@ -312,6 +331,7 @@ As a User, I want to join a competition.
 - Once the competition is open, teams which are stored in the database should be able to join the competition. 
 - If a new team is formed after the start date of the competition they should still be able to join the competition until and unless the competition is closed.
 
+# Sprint - 2
 ## User Story - 8
 As a User, I want to join a competition when it starts.
 ## Acceptance Criteria:
@@ -392,11 +412,10 @@ As a user I want hints if I am unable to crack the clue.
 - The user can ask for hints if he/she is unable to crack the clue.
 - There should be provision for the hints in the database and the hint should be popped up on the screen if the user wishes for the hints in the clue page.
 
+# Sprint - 3
 ## User story - 18
 
 As a user I want to know if there are any points reduced if I use the hints field.
-
-
 
 ## Acceptance criteria:
 
@@ -457,7 +476,12 @@ As a User I want to  know if I can create a quest for the competition.
 - The user will not have access to create a quest except huntmaster.
 - The data base will be designed such a way that the normal user will not be able to see the create quest option as this game is designed such a way that only huntmaster can create the quests and start compettion.
 
+# Sprint - 4 (Scheduled for GDP-2)
 
+- Planning of User stories
+- Iteration of all the tasks
+- Testing the application and client approval
+- MVP 4 release
 
 # Rapid MVP Team Links
 
