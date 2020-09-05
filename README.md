@@ -548,10 +548,66 @@ As a user I want hints if I am unable to crack the clue.
 
 As a user I want to know if there are any points reduced if I use the hints field.
 
+
+
 ## Acceptance criteria:
 
 - The user will not be awarded if he uses the hints field to find out a location.
 - The program for this will coded to award less points to the player if they use the hints field even though he reaches that location first.
+
+## User story - 19
+
+As a User I want assistance in finding a location.
+
+## Acceptance criteria:
+
+- The user will be assisted after he cracks the clue and location corrdinates are provided to him.
+- Third part applications will be used to giude th euser by providing a route mao to the user.
+
+## User story - 20
+
+As a user I want to hear instructions while going to that location.
+
+## Acceptance criteria:
+
+- The user can hear to the instructions while he/she is on the way to the location.
+- The javascript code will be designed such that the instructions can be heard on the way to the location.
+ 
+## User story - 21
+
+As a user I wish to mute the instructions.
+
+## Acceptance criteria:
+
+- The user will be able to mute the instructions in the settings page.
+- The settings page will be provided with the option of sound off so that the user who wishes to mute the instructions can mute it.
+
+## User story - 22
+
+As a user I want to look at my profile.
+
+## Acceptance criteria:
+
+- The user can access their account in the settings page.
+- The settings page will be provided with the account info and will be accsseble from the database when the user clicks on the account icon/tab.
+
+## User story - 23
+
+As a user I want to look at all the settings available for the game.
+
+## Acceptance criteria:
+
+- The user will be provided with the setting icon/tab so thet he can see the settings available for the game.
+- The home page will be designed with the settings icon/tab for the user to redirect him to the setting page to access it.
+
+## User story - 24
+
+As a User I want to  know if I can create a quest for the competition.
+
+## Acceptance criteria:
+
+- The user will not have access to create a quest except huntmaster.
+- The data base will be designed such a way that the normal user will not be able to see the create quest option as this game is designed such a way that only huntmaster can create the quests and start compettion.
 
 
 
