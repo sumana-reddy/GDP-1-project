@@ -517,7 +517,10 @@ This is the page where the user can be able to view the map of Northwest Missour
 <img src = "proposed/Game_Screen.png">
 
 ## Jira screenshot : 
-<img src ="Images\updated_jira.PNG">
+<img src ="Images\jira_screenshot1.PNG">
+<img src ="Images\jira_screenshot2.PNG">
+<img src ="Images\jira_screenshot3.PNG">
+<img src ="Images\jira_screenshot4.PNG">
 
 ## Original RFP:
 [RFP](https://github.com/denisecase/rfp-hunt/blob/master/rfp-hunt.md)
