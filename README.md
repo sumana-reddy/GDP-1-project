@@ -126,217 +126,65 @@ This is a mobile gaming application which enables the players(users of this game
 
 ## Schedule Management
 
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0lax">WBS NO.</th>
-    <th class="tg-0lax">TASK NAME</th>
-    <th class="tg-0lax">STATUS</th>
-    <th class="tg-0lax">DURATION in hrs</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax"><b>1</b></td>
-    <td class="tg-0lax"><b>Sprint 0<b></td>
-    <td class="tg-0lax"><b>-</b></td>
-    <td class="tg-0lax"><b>200</b></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">1.1</td>
-    <td class="tg-0lax">User stories prioritization</td>
-    <td class="tg-0lax">Done</td>
-    <td class="tg-0lax">25</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">1.2</td>
-    <td class="tg-0lax">ER-Diagram development</td>
-    <td class="tg-0lax">Done</td>
-    <td class="tg-0lax">25</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">1.3</td>
-    <td class="tg-0lax">Sample data</td>
-    <td class="tg-0lax">Done</td>
-    <td class="tg-0lax">25</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">1.4</td>
-    <td class="tg-0lax">Schedule management plan</td>
-    <td class="tg-0lax">In-progress</td>
-    <td class="tg-0lax">25</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">1.5</td>
-    <td class="tg-0lax">Cost estimation</td>
-    <td class="tg-0lax">Done</td>
-    <td class="tg-0lax">20</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">1.6</td>
-    <td class="tg-0lax">Proposed UI screens development</td>
-    <td class="tg-0lax">In-progress</td>
-    <td class="tg-0lax">30</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">1.7</td>
-    <td class="tg-0lax">Jira setups</td>
-    <td class="tg-0lax">Done</td>
-    <td class="tg-0lax">24</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">1.8</td>
-    <td class="tg-0lax">User authorization</td>
-    <td class="tg-0lax">Done</td>
-    <td class="tg-0lax">26</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><b>2</b></td>
-    <td class="tg-0lax"><b>Sprint 1</b></td>
-    <td class="tg-0lax"><b>-</b></td>
-    <td class="tg-0lax"><b>200</b></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">2.1</td>
-    <td class="tg-0lax">Sprint 1 planning</td>
-    <td class="tg-0lax">To-Do</td>
-    <td class="tg-0lax">35</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">2.2</td>
-    <td class="tg-0lax">Sprint 1 execution</td>
-    <td class="tg-0lax">To-Do</td>
-    <td class="tg-0lax">35</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">2.3</td>
-    <td class="tg-0lax">Sprint 1 Demo and User authorization</td>
-    <td class="tg-0lax">To-Do</td>
-    <td class="tg-0lax">35</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">2.4</td>
-    <td class="tg-0lax">Sprint 1 implementation</td>
-    <td class="tg-0lax">To-Do</td>
-    <td class="tg-0lax">45</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">2.5</td>
-    <td class="tg-0lax">MVP 1 release</td>
-    <td class="tg-0lax">To-Do</td>
-    <td class="tg-0lax">50</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><b>3</b></td>
-    <td class="tg-0lax"><b>Sprint 2</b></td>
-    <td class="tg-0lax"><b>-</b></td>
-    <td class="tg-0lax"><b>200</b></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">3.1</td>
-    <td class="tg-0lax">Sprint 2 planning</td>
-    <td class="tg-0lax">To-Do</td>
-    <td class="tg-0lax">35</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">3.2</td>
-    <td class="tg-0lax">Sprint 2 execution</td>
-    <td class="tg-0lax">To-Do</td>
-    <td class="tg-0lax">35</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">3.3</td>
-    <td class="tg-0lax">Sprint 2 Demo and User authorization</td>
-    <td class="tg-0lax">To-Do</td>
-    <td class="tg-0lax">35</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">3.4</td>
-    <td class="tg-0lax">Sprint 2 implementation</td>
-    <td class="tg-0lax">To-Do</td>
-    <td class="tg-0lax">45</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">3.5</td>
-    <td class="tg-0lax">MVP 2 release</td>
-    <td class="tg-0lax">To-Do</td>
-    <td class="tg-0lax">50</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><b>4</b></td>
-    <td class="tg-0lax"><b>Sprint 3</b></td>
-    <td class="tg-0lax"><b>-</b></td>
-    <td class="tg-0lax"><b>200</b></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">4.1</td>
-    <td class="tg-0lax">Sprint 3 planning</td>
-    <td class="tg-0lax">To-Do</td>
-    <td class="tg-0lax">35</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">4.2</td>
-    <td class="tg-0lax">Sprint 3 execution</td>
-    <td class="tg-0lax">To-Do</td>
-    <td class="tg-0lax">35</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">4.3</td>
-    <td class="tg-0lax">Sprint 3 Demo and User authorization</td>
-    <td class="tg-0lax">To-Do</td>
-    <td class="tg-0lax">35</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">4.4</td>
-    <td class="tg-0lax">Sprint 3 implementation</td>
-    <td class="tg-0lax">To-Do</td>
-    <td class="tg-0lax">45</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">4.5</td>
-    <td class="tg-0lax">MVP 3 release</td>
-    <td class="tg-0lax">To-Do</td>
-    <td class="tg-0lax">50</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><b>5</b></td>
-    <td class="tg-0lax"><b>Sprint 4 (GDP 2) all sprints</b></td>
-    <td class="tg-0lax"><b>-</b></td>
-    <td class="tg-0lax"><b>600</b></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">5.1</td>
-    <td class="tg-0lax">Sprint 4 planning</td>
-    <td class="tg-0lax">To-Do</td>
-    <td class="tg-0lax">100</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">5.2</td>
-    <td class="tg-0lax">Sprint 4 execution</td>
-    <td class="tg-0lax">To-Do</td>
-    <td class="tg-0lax">140</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">5.3</td>
-    <td class="tg-0lax">Sprint 4 Demo and User authorization</td>
-    <td class="tg-0lax">To-Do</td>
-    <td class="tg-0lax">140</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">5.4</td>
-    <td class="tg-0lax">Sprint 4 implementation</td>
-    <td class="tg-0lax">To-Do</td>
-    <td class="tg-0lax">115</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">5.5</td>
-    <td class="tg-0lax">MVP 4 release</td>
-    <td class="tg-0lax">To-Do</td>
-    <td class="tg-0lax">105</td>
-  </tr>
-
-</tbody>
-</table>
+|                                    PROJECT   PLAN TEMPLATE 	|  	|  	|  	|  	|
+|-	|-	|-	|-	|-	|
+|   	| PROJECT TITLE 	|   	|   	|  	|
+|   	| Northwest Gaming   Application  	|   	|  	|  	|
+|   	|   	|   	|   	|  	|
+| WBS NO. 	| TASK NAME 	| STATUS 	| DURATION in hours 	|  	|
+| 1 	| Sprint   0 	|   	| 180 	|  	|
+| 1.1 	| – User stories   prioritization 	| Done 	| 20 	|  	|
+| 1.2 	| – ER-Diagram   development 	| Done 	| 25 	|  	|
+| 1.3 	| – Sample data 	| Done 	| 20 	|  	|
+| 1.4 	| – Schedule   management plan 	| In-progress 	| 25 	|  	|
+| 1.5 	| – Cost   estimation 	| Done 	| 20 	|  	|
+| 1.6 	| – Proposed UI   screens development 	| In-progress 	| 30 	|  	|
+| 1.7 	| – Jira setups 	| Done 	| 20 	|  	|
+| 1.8 	| – User   authorization 	| Done 	| 20 	|  	|
+| 2 	| Sprint 1 	|   	| 180 	|  	|
+| 2.1 	| Planning the   User stories 	| To-Do 	| 50 	|  	|
+| 2.1.1 	| As a User I   want to login/Signup for the game. 	| To-Do 	|   	|  	|
+| 2.1.2 	| As a user I   want to create a team. 	| To-Do 	|   	|  	|
+| 2.1.3 	| As a User I   want to Join a Team. 	| To-Do 	|   	|  	|
+| 2.1.4 	| As a   User(captain) I want to accept/decline an invite of a player. 	| To-Do 	|   	|  	|
+| 2.1.5 	| As a user I   want to act as the huntmaster and create quest. 	| To-Do 	|   	|  	|
+| 2.1.6 	| As a   User(huntmaster) I want to add multiple locations in a single quest. 	| To-Do 	|   	|  	|
+| 2.1.7 	| As a User I   want to join a competition. 	| To-Do 	|   	|  	|
+| 2.2 	| – Sprint 1   Implementation of all the user stories planned 	| To-Do 	| 100 	|  	|
+| 2.3 	| – Sprint 1 Demo   and client Acceptance 	| To-Do 	| 30 	|  	|
+| 2.5 	| – MVP 1 release 	| To-Do 	|   	|  	|
+| 3 	| Sprint 2  	|   	| 200 	|  	|
+| 3.1 	| – Sprint 2   Planning Of  User stories 	| To-Do 	| 50 	|  	|
+| 3.1.1 	| As a User I   want to join a competition when it starts. 	| To-Do 	|   	|  	|
+| 3.1.2 	| As a User I   want to know about the scoring details of the competition. 	| To-Do 	|   	|  	|
+| 3.1.3 	| As a User I   want to look at the points scored by the team. 	| To-Do 	|   	|  	|
+| 3.1.4 	| As a user I   want to know how the team points are calculated. 	| To-Do 	|   	|  	|
+| 3.1.5 	| As User I want   to know the limit of the players per team. 	| To-Do 	|   	|  	|
+| 3.1.6 	| As a user I   want to leave the team and join other team. 	| To-Do 	|   	|  	|
+| 3.1.7 	| As a User I   want to change my nick name. 	| To-Do 	|   	|  	|
+| 3.1.8 	| As a User  I want to create multiple accounts under   one user id. 	| To-Do 	|   	|  	|
+| 3.1.9 	| As a user I   want to know how many more locations are left to be found out. 	| To-Do 	|   	|  	|
+| 3.1.10 	| As a user I   want hints if I am unable to crack the clue. 	| To-Do 	|   	|  	|
+| 3.4 	| – Sprint 2   Implementation of all the User stories 	| To-Do 	| 120 	|  	|
+| 3.3 	| – Sprint 2   Demo  	| To-Do 	| 30 	|  	|
+| 3.5 	| – MVP 2 release 	| To-Do 	|   	|  	|
+| 4 	| Sprint 3 	| To-Do 	| 180 	|  	|
+| 4.1 	| – Sprint 3   Planning of user stories 	| To-Do 	| 50 	|  	|
+| 4.1.1 	| As a user I   want to know if there are any points reduced if I use the hints field. 	| To-Do 	|   	|  	|
+| 4.1.2 	| As a User I   want assistance in finding a location. 	| To-Do 	|   	|  	|
+| 4.1.3 	| As a user I   want to hear instructions while going to that location. 	| To-Do 	|   	|  	|
+| 4.1.4 	| As a user I   wish to mute the instructions. 	| To-Do 	|   	|  	|
+| 4.1.5 	| As a user I   wish to mute the instructions. 	| To-Do 	|   	|  	|
+| 4.1.6 	| As a user I   want to look at all the settings available for the game. 	| To-Do 	|   	|  	|
+| 4.1.7 	| As a User I   want to  know if I can create a quest   for the competition. 	| To-Do 	|   	|  	|
+| 4.2 	| – Sprint 3   Implementation of all the User stories 	| To-Do 	| 100 	|  	|
+| 4.3 	| – Sprint 3 Demo   and Client Acceptance 	| To-Do 	| 30 	|  	|
+| 4.5 	| – MVP 3 release 	| To-Do 	|   	|  	|
+| 5 	| Sprint 4   (GDP-2) all sprints 	|   	| 540 	|  	|
+| 5.1 	| – Sprint 4   Planning of User stories 	| To-Do 	|   	|  	|
+| 5.2 	| – Iteration of   all the tasks 	| To-Do 	|   	|  	|
+| 5.3 	| – Testing the   application and client approval 	| To-Do 	|   	|  	|
+| 5.5 	| – MVP 4 release 	| To-Do 	|   	|  	|
 
 
 ## Updated Cost Estimate 
